@@ -1,7 +1,7 @@
 {
   "generatedAt": null,
-  "asOfLabel": "Connectivity test",
-  "watchAlert": "Connectivity test from Cowork -- real data lands after the first scheduled 6:15 AM run.",
+  "asOfLabel": "Not yet run",
+  "watchAlert": "Seed file -- waiting on the first Pre-Open Briefing run to populate real data.",
   "fullBrief": "",
   "macro": null,
   "standouts": null,
@@ -11,12 +11,68 @@
     {
       "symbol": "CRDO",
       "notes": "High-speed interconnect -- clean oscillator."
+    },
+    {
+      "symbol": "UMAC",
+      "notes": "Unusual Machines -- drones, high ATR. Just entered."
+    },
+    {
+      "symbol": "CDW",
+      "notes": "IT solutions -- steady range, reliable reversals."
+    },
+    {
+      "symbol": "GLW",
+      "notes": "Corning -- optical fiber, range trade at support."
+    },
+    {
+      "symbol": "NBIS",
+      "notes": "High volatility, strong intraday range."
+    },
+    {
+      "symbol": "APLD",
+      "notes": "AI infrastructure -- oscillates in trending mkts."
+    },
+    {
+      "symbol": "SMCI",
+      "notes": "High ATR, volatile. Strong bounce signals."
+    },
+    {
+      "symbol": "ZS",
+      "notes": "Added manually."
     }
   ],
   "longWatch": [
     {
       "symbol": "OKLO",
-      "thesis": "Advanced nuclear microreactor."
+      "thesis": "Advanced nuclear microreactor -- AI data center power demand."
+    },
+    {
+      "symbol": "LUNR",
+      "thesis": "Intuitive Machines -- lunar logistics, NASA contract."
+    },
+    {
+      "symbol": "JOBY",
+      "thesis": "eVTOL air taxi -- FAA cert progress + Delta partnership."
+    },
+    {
+      "symbol": "SMR",
+      "thesis": "NuScale Power -- small modular reactor. Long horizon."
+    },
+    {
+      "symbol": "NNE",
+      "thesis": "Nano Nuclear Energy -- portable microreactors."
+    },
+    {
+      "symbol": "INTC",
+      "thesis": "Semiconductor turnaround -- US onshoring tailwind."
+    },
+    {
+      "symbol": "UEC",
+      "thesis": "Uranium Energy -- nuclear renaissance, US supply chain."
+    },
+    {
+      "symbol": "ASTS",
+      "thesis": "AST SpaceMobile -- satellite broadband."
     }
   ]
 }
