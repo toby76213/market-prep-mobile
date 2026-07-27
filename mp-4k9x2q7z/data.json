@@ -1,78 +1,80 @@
-{
-  "generatedAt": null,
-  "asOfLabel": "Not yet run",
-  "watchAlert": "Seed file -- waiting on the first Pre-Open Briefing run to populate real data.",
-  "fullBrief": "",
-  "macro": null,
-  "standouts": null,
-  "catalyst": null,
-  "positions": [],
-  "rangeWatch": [
-    {
-      "symbol": "CRDO",
-      "notes": "High-speed interconnect -- clean oscillator."
-    },
-    {
-      "symbol": "UMAC",
-      "notes": "Unusual Machines -- drones, high ATR. Just entered."
-    },
-    {
-      "symbol": "CDW",
-      "notes": "IT solutions -- steady range, reliable reversals."
-    },
-    {
-      "symbol": "GLW",
-      "notes": "Corning -- optical fiber, range trade at support."
-    },
-    {
-      "symbol": "NBIS",
-      "notes": "High volatility, strong intraday range."
-    },
-    {
-      "symbol": "APLD",
-      "notes": "AI infrastructure -- oscillates in trending mkts."
-    },
-    {
-      "symbol": "SMCI",
-      "notes": "High ATR, volatile. Strong bounce signals."
-    },
-    {
-      "symbol": "ZS",
-      "notes": "Added manually."
-    }
-  ],
-  "longWatch": [
-    {
-      "symbol": "OKLO",
-      "thesis": "Advanced nuclear microreactor -- AI data center power demand."
-    },
-    {
-      "symbol": "LUNR",
-      "thesis": "Intuitive Machines -- lunar logistics, NASA contract."
-    },
-    {
-      "symbol": "JOBY",
-      "thesis": "eVTOL air taxi -- FAA cert progress + Delta partnership."
-    },
-    {
-      "symbol": "SMR",
-      "thesis": "NuScale Power -- small modular reactor. Long horizon."
-    },
-    {
-      "symbol": "NNE",
-      "thesis": "Nano Nuclear Energy -- portable microreactors."
-    },
-    {
-      "symbol": "INTC",
-      "thesis": "Semiconductor turnaround -- US onshoring tailwind."
-    },
-    {
-      "symbol": "UEC",
-      "thesis": "Uranium Energy -- nuclear renaissance, US supply chain."
-    },
-    {
-      "symbol": "ASTS",
-      "thesis": "AST SpaceMobile -- satellite broadband."
-    }
-  ]
+﻿{
+    "catalyst":  null,
+    "rangeWatch":  [
+                       {
+                           "symbol":  "CRDO",
+                           "notes":  "High-speed interconnect -- clean oscillator."
+                       },
+                       {
+                           "symbol":  "UMAC",
+                           "notes":  "Unusual Machines -- drones, high ATR. Just entered."
+                       },
+                       {
+                           "symbol":  "CDW",
+                           "notes":  "IT solutions -- steady range, reliable reversals."
+                       },
+                       {
+                           "symbol":  "GLW",
+                           "notes":  "Corning -- optical fiber, range trade at support."
+                       },
+                       {
+                           "symbol":  "NBIS",
+                           "notes":  "High volatility, strong intraday range."
+                       },
+                       {
+                           "symbol":  "APLD",
+                           "notes":  "AI infrastructure -- oscillates in trending mkts."
+                       },
+                       {
+                           "symbol":  "SMCI",
+                           "notes":  "High ATR, volatile. Strong bounce signals."
+                       },
+                       {
+                           "symbol":  "ZS",
+                           "notes":  "Added manually."
+                       }
+                   ],
+    "standouts":  null,
+    "macro":  null,
+    "fullBrief":  "ES +0.9%, NQ +1.4%, Dow futures +1.2%; VIX ~18 (opening ~18.96, pulling back); 10yr yield 4.63-4.64%, easing from 4.67% Friday high; driver is US-Iran pause in strikes, oil -5.7% to ~$84 WTI.\nPre-market standouts: INTC -7.9% Friday on earnings (best revenue in 17yrs but semi valuation pressure); MU +3% and NVDA leading S\u0026P gainers; semiconductor strength broad; SMCI volatile with $7B dilution overhang.\nINTC ~$94-96 pre-mkt (est. -7.9% from Friday close ~$102); thesis-hold, earnings beat was strong, drop is AI capex/valuation noise, no thesis break. HOLD.\nOKLO ~$44-45 pre-mkt; received DOE Groves reactor startup authorization Jul 23, selected for $200M Trump AI-nuclear program Jul 21; thesis intact despite nuclear basket -8-9% last Thu on execution skepticism. HOLD.\nSMR ~$8-9 pre-mkt; same nuclear basket pressure from Truist Hold initiation and AI proof-of-execution rotation; thesis intact. HOLD.\nNNE ~$50-55 est; nuclear basket pressure same; thesis intact. HOLD.\nUEC ~$9-10 est; uranium/nuclear thesis intact, no new adverse news. HOLD.\nLUNR ~$14 est; space/lunar thesis intact, broad risk-on tailwind. HOLD.\nJOBY ~$7-8 est; eVTOL thesis intact. HOLD.\nSMCI ~$25-26 est; short position range trade; -7.9% risk-on headwind for shorts; STOP $24.75. STOP $24.75.\nNOW ~$1,100 est; range trade; STOP $1,067.00. STOP $1,067.00.\nPANW ~$195 est; range trade short; risk-on headwind for short; STOP $189.25. STOP $189.25.\nCRDO ~$195 est; thesis hold short; no specific news breaking thesis. HOLD.\nCatalyst to watch at open: FOMC meeting Wednesday (Fed funds decision); megacap tech earnings this week (MSFT, META, AMZN, AAPL); advance Q2 GDP and PCE data later this week; watch oil for any Iran re-escalation headlines.",
+    "generatedAt":  "2026-07-27T13:15:58Z",
+    "asOfLabel":  "2026-07-27, 9:15 AM ET",
+    "watchAlert":  "ES +0.9% NQ +1.4% VIX ~18 Iran pause | INTC HOLD (earnings gap Fri -7.9%, risk-on recovery) | OKLO HOLD | SMCI STOP $24.75 | NOW STOP $1067.00",
+    "longWatch":  [
+                      {
+                          "symbol":  "OKLO",
+                          "thesis":  "Advanced nuclear microreactor — AI data center power demand."
+                      },
+                      {
+                          "symbol":  "LUNR",
+                          "thesis":  "Intuitive Machines — lunar logistics, NASA contract."
+                      },
+                      {
+                          "symbol":  "JOBY",
+                          "thesis":  "eVTOL air taxi — FAA cert progress + Delta partnership."
+                      },
+                      {
+                          "symbol":  "SMR",
+                          "thesis":  "NuScale Power — small modular reactor. Long horizon."
+                      },
+                      {
+                          "symbol":  "NNE",
+                          "thesis":  "Nano Nuclear Energy — portable microreactors."
+                      },
+                      {
+                          "symbol":  "INTC",
+                          "thesis":  "Semiconductor turnaround — US onshoring tailwind."
+                      },
+                      {
+                          "symbol":  "UEC",
+                          "thesis":  "Uranium Energy — nuclear renaissance, US supply chain."
+                      },
+                      {
+                          "symbol":  "ASTS",
+                          "thesis":  "AST SpaceMobile — satellite broadband."
+                      }
+                  ],
+    "positions":  {
+
+                  }
 }
