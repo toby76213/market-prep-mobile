@@ -29,6 +29,15 @@
     border-radius:12px; padding:8px 12px; font-size:12px; font-family:inherit; cursor:pointer;}
   #refreshBtn:active{opacity:0.7;}
 
+  .mktdir{display:flex; gap:8px; margin-bottom:14px;}
+  .mchip{flex:1; background:var(--bg1); border:1px solid var(--border); border-radius:12px;
+    padding:9px 6px; text-align:center;}
+  .mchip .ml{font-size:9.5px; color:var(--dim); text-transform:uppercase; letter-spacing:0.5px;}
+  .mchip .mv{font-size:18px; font-weight:700; font-family:'Inter',sans-serif; margin-top:3px; color:var(--text);}
+  .mchip.up{border-color:rgba(76,175,80,0.5);} .mchip.up .mv{color:var(--green);}
+  .mchip.down{border-color:rgba(255,107,107,0.5);} .mchip.down .mv{color:var(--red);}
+  .mchip.neutral{border-color:rgba(232,168,56,0.4);} .mchip.neutral .mv{color:var(--gold);}
+
   .banner{background:var(--bg2); border:1px solid var(--gold); border-radius:14px;
     padding:12px 14px; font-size:13.5px; line-height:1.5; margin-bottom:14px; color:var(--text);}
   .banner.stale{border-color:#5a5f6a;}
@@ -88,6 +97,8 @@
     <button id="refreshBtn" onclick="loadAll()">Refresh</button>
   </div>
 
+  <div class="mktdir" id="mktDir"></div>
+
   <div class="banner" id="watchBanner">Loading latest briefing&hellip;</div>
 
   <div class="card">
@@ -138,6 +149,34 @@ function fmtAgo(iso){
 
 function statusClass(status){
   return 'st-' + (status || '').replace(/\s+/g,'').toUpperCase();
+}
+
+function parseDir(s){
+  if(!s) return null;
+  const d = {};
+  let m = s.match(/ES\s*([+-]?[\d.]+%)/i);   if(m) d.es  = m[1];
+  m = s.match(/NQ\s*([+-]?[\d.]+%)/i);        if(m) d.nq  = m[1];
+  m = s.match(/VIX\s*~?\$?([\d.]+)/i);        if(m) d.vix = m[1];
+  return Object.keys(d).length ? d : null;
+}
+
+function mchip(label, val, isVix){
+  if(!val) return '';
+  let cls = 'neutral';
+  if(!isVix){
+    if(/^-/.test(val)) cls = 'down';
+    else cls = 'up';           // "+0.9%" or a bare positive number
+  }
+  return `<div class="mchip ${cls}"><div class="ml">${label}</div><div class="mv">${val}</div></div>`;
+}
+
+function renderMarketDir(d){
+  const el = document.getElementById('mktDir');
+  const dir = d.marketDirection || parseDir(d.macro) || parseDir(d.watchAlert);
+  if(!dir){ el.innerHTML = ''; return; }
+  el.innerHTML = mchip('S&P Fut', dir.es, false)
+               + mchip('Nasdaq Fut', dir.nq, false)
+               + mchip('VIX', dir.vix, true);
 }
 
 function renderPositions(positions){
@@ -214,6 +253,8 @@ async function loadAll(){
 
     const ago = fmtAgo(d.generatedAt);
     document.getElementById('freshness').textContent = (d.asOfLabel || '') + (ago ? ' · ' + ago : '');
+
+    renderMarketDir(d);
 
     const banner = document.getElementById('watchBanner');
     banner.textContent = d.watchAlert || 'No briefing yet.';
