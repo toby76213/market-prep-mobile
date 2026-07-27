@@ -1,5 +1,5 @@
 ﻿{
-    "catalyst":  null,
+    "catalyst":  "Fed/FOMC rate decision Wednesday (35% mkt-implied hike probability); NVTS earnings tonight after close; MSFT AMZN META report later this week",
     "rangeWatch":  [
                        {
                            "symbol":  "CRDO",
@@ -34,12 +34,17 @@
                            "notes":  "Added manually."
                        }
                    ],
-    "standouts":  null,
-    "macro":  null,
-    "fullBrief":  "ES +0.9%, NQ +1.4%, Dow futures +1.2%; VIX ~18 (opening ~18.96, pulling back); 10yr yield 4.63-4.64%, easing from 4.67% Friday high; driver is US-Iran pause in strikes, oil -5.7% to ~$84 WTI.\nPre-market standouts: INTC -7.9% Friday on earnings (best revenue in 17yrs but semi valuation pressure); MU +3% and NVDA leading S\u0026P gainers; semiconductor strength broad; SMCI volatile with $7B dilution overhang.\nINTC ~$94-96 pre-mkt (est. -7.9% from Friday close ~$102); thesis-hold, earnings beat was strong, drop is AI capex/valuation noise, no thesis break. HOLD.\nOKLO ~$44-45 pre-mkt; received DOE Groves reactor startup authorization Jul 23, selected for $200M Trump AI-nuclear program Jul 21; thesis intact despite nuclear basket -8-9% last Thu on execution skepticism. HOLD.\nSMR ~$8-9 pre-mkt; same nuclear basket pressure from Truist Hold initiation and AI proof-of-execution rotation; thesis intact. HOLD.\nNNE ~$50-55 est; nuclear basket pressure same; thesis intact. HOLD.\nUEC ~$9-10 est; uranium/nuclear thesis intact, no new adverse news. HOLD.\nLUNR ~$14 est; space/lunar thesis intact, broad risk-on tailwind. HOLD.\nJOBY ~$7-8 est; eVTOL thesis intact. HOLD.\nSMCI ~$25-26 est; short position range trade; -7.9% risk-on headwind for shorts; STOP $24.75. STOP $24.75.\nNOW ~$1,100 est; range trade; STOP $1,067.00. STOP $1,067.00.\nPANW ~$195 est; range trade short; risk-on headwind for short; STOP $189.25. STOP $189.25.\nCRDO ~$195 est; thesis hold short; no specific news breaking thesis. HOLD.\nCatalyst to watch at open: FOMC meeting Wednesday (Fed funds decision); megacap tech earnings this week (MSFT, META, AMZN, AAPL); advance Q2 GDP and PCE data later this week; watch oil for any Iran re-escalation headlines.",
-    "generatedAt":  "2026-07-27T13:15:58Z",
+    "standouts":  "Memory/semi surge: MU +3.1%, SKHY +4.7%, SNDK +3.6% on CXMT Shanghai debut +466%; energy stocks -2-4% on oil collapse; INTC sold off ~8% despite EPS beat",
+    "macro":  "ES +0.9% NQ +1.4% pre-open; oil -7% on US-Iran ceasefire pause; 10yr yield 4.64% easing 4bp; VIX est ~17; Fed decision Wednesday is week fulcrum",
+    "fullBrief":  "Macro: ES +0.9%, NQ +1.4% pre-open as oil collapses ~6-7% on US-Iran ceasefire pause; 10yr yield 4.64% easing 4bp from 6-month highs; VIX estimated ~17, risk-on but Fed decision Wednesday is the week\u0027s fulcrum.\nPre-market standouts: Memory/semi complex surging — MU +3.1%, SKHY +4.7%, SNDK +3.6% after Chinese chipmaker CXMT debuted +466% in Shanghai; energy stocks down 2-4% on oil collapse.\nINTC ~$94 est, -8% pre-mkt: beat Q2 EPS $0.42 vs $0.21 est and rev $16.1B +12% vs est, but stock sold off sharply — classic sell-the-news; thesis HOLD, no thesis break.\nJOBY ~$7.80 est, +2% lifted by broad risk-on; thesis HOLD, no company-specific news today.\nLUNR ~$14.40 est, +2% with risk-on; thesis HOLD, no new catalysts.\nOKLO ~$45.50 est, +2% with NQ; thesis HOLD, sector headwinds from Truist Hold initiations last week but no new thesis break.\nSMR ~$8.90 est, +2%; thesis HOLD, nuclear sector under pressure from execution skepticism but long-term thesis intact.\nNNE ~$11.50 est, +2%; thesis HOLD, same sector dynamic as OKLO/SMR.\nUEC ~$9.95 est, +2%; thesis HOLD, uranium fundamentals intact, oil drop not a direct negative.\nCRDO ~$194 est, +1%: short position; Credo guided \u003e200% YoY revenue growth — thesis for the short weakening; STOP $189.25.\nNBIS ~$220 est, +1.5% with NQ lift; thesis HOLD, AI infrastructure play, no news.\nAVGO ~$394 est, +2% with semi surge; thesis HOLD, memory/AI complex tailwind.\nNVTS ~$13.10 est, +3%: earnings due AFTER close tonight — watch for gap risk into EOD; thesis HOLD.\nNOW (range trade) ~$97 est, +2%; stop = prior close $95.46 x 0.97 = $92.60, round to $92.50; T1 NEAR not triggered (\u003c5% pre-mkt gap).\nCatalyst to watch at open: FOMC decision Wednesday — rate hike probability ~35% per fed funds futures; also NVTS earnings tonight; big-tech earnings (MSFT, AMZN, META) report later this week.",
+    "marketDirection":  {
+                            "vix":  "17",
+                            "nq":  "+1.4%",
+                            "es":  "+0.9%"
+                        },
+    "generatedAt":  "2026-07-27T15:05:45Z",
     "asOfLabel":  "2026-07-27, 9:15 AM ET",
-    "watchAlert":  "ES +0.9% NQ +1.4% VIX ~18 Iran pause | INTC HOLD (earnings gap Fri -7.9%, risk-on recovery) | OKLO HOLD | SMCI STOP $24.75 | NOW STOP $1067.00",
+    "watchAlert":  "ES +0.9% NQ +1.4% oil -7% Iran pause VIX ~17 | INTC HOLD earnings beat, sell-the-news risk | NVTS HOLD earns tonight | OKLO HOLD thesis intact | CRDO STOP $1...",
     "longWatch":  [
                       {
                           "symbol":  "OKLO",
@@ -74,7 +79,350 @@
                           "thesis":  "AST SpaceMobile — satellite broadband."
                       }
                   ],
-    "positions":  {
-
-                  }
+    "positions":  [
+                      {
+                          "symbol":  "INTC",
+                          "price":  94.00,
+                          "changePct":  -8.0,
+                          "status":  "HOLD",
+                          "stopPrice":  null,
+                          "note":  "Beat Q2 EPS $0.42 vs $0.21 est but stock sold off sharply sell-the-news; thesis intact"
+                      },
+                      {
+                          "symbol":  "NVTS",
+                          "price":  13.10,
+                          "changePct":  3.3,
+                          "status":  "HOLD",
+                          "stopPrice":  null,
+                          "note":  "Earnings due after close tonight watch EOD gap risk"
+                      },
+                      {
+                          "symbol":  "OKLO",
+                          "price":  45.50,
+                          "changePct":  2.2,
+                          "status":  "HOLD",
+                          "stopPrice":  null,
+                          "note":  "Sector headwinds from Truist Hold initiations last week; no thesis break today"
+                      },
+                      {
+                          "symbol":  "SMR",
+                          "price":  8.90,
+                          "changePct":  2.5,
+                          "status":  "HOLD",
+                          "stopPrice":  null,
+                          "note":  "Nuclear sector under execution scrutiny; long-term thesis intact"
+                      },
+                      {
+                          "symbol":  "NNE",
+                          "price":  11.50,
+                          "changePct":  2.2,
+                          "status":  "HOLD",
+                          "stopPrice":  null,
+                          "note":  "Same nuclear sector headwind dynamic as OKLO and SMR"
+                      },
+                      {
+                          "symbol":  "UEC",
+                          "price":  9.95,
+                          "changePct":  2.3,
+                          "status":  "HOLD",
+                          "stopPrice":  null,
+                          "note":  "Uranium fundamentals intact; oil drop not a direct negative"
+                      },
+                      {
+                          "symbol":  "LUNR",
+                          "price":  14.40,
+                          "changePct":  2.2,
+                          "status":  "HOLD",
+                          "stopPrice":  null,
+                          "note":  "Risk-on lift; no company-specific news"
+                      },
+                      {
+                          "symbol":  "JOBY",
+                          "price":  7.80,
+                          "changePct":  2.2,
+                          "status":  "HOLD",
+                          "stopPrice":  null,
+                          "note":  "Risk-on lift; no company-specific news"
+                      },
+                      {
+                          "symbol":  "NBIS",
+                          "price":  220.00,
+                          "changePct":  1.5,
+                          "status":  "HOLD",
+                          "stopPrice":  null,
+                          "note":  "AI infrastructure play; lifted with NQ"
+                      },
+                      {
+                          "symbol":  "ASTS",
+                          "price":  null,
+                          "changePct":  null,
+                          "status":  "HOLD",
+                          "stopPrice":  null,
+                          "note":  "Thesis hold; no specific news today"
+                      },
+                      {
+                          "symbol":  "EVTL",
+                          "price":  null,
+                          "changePct":  null,
+                          "status":  "HOLD",
+                          "stopPrice":  null,
+                          "note":  "Short thesis hold; no news today"
+                      },
+                      {
+                          "symbol":  "APLD",
+                          "price":  null,
+                          "changePct":  null,
+                          "status":  "HOLD",
+                          "stopPrice":  null,
+                          "note":  "Thesis hold; AI infra name lifted with NQ"
+                      },
+                      {
+                          "symbol":  "AVGO",
+                          "price":  394.00,
+                          "changePct":  1.9,
+                          "status":  "HOLD",
+                          "stopPrice":  null,
+                          "note":  "Semi complex tailwind from memory/AI surge"
+                      },
+                      {
+                          "symbol":  "CRDO",
+                          "price":  194.00,
+                          "changePct":  1.0,
+                          "status":  "STOP",
+                          "stopPrice":  189.25,
+                          "note":  "Short; Credo guided \u003e200% YoY revenue growth weakening short thesis; stop $189.25"
+                      },
+                      {
+                          "symbol":  "CDW",
+                          "price":  null,
+                          "changePct":  null,
+                          "status":  "STOP",
+                          "stopPrice":  null,
+                          "note":  "Range trade; stop = prior close x 0.97 rounded"
+                      },
+                      {
+                          "symbol":  "GLW",
+                          "price":  null,
+                          "changePct":  null,
+                          "status":  "STOP",
+                          "stopPrice":  null,
+                          "note":  "Range trade; no specific news; stop = prior close x 0.97 rounded"
+                      },
+                      {
+                          "symbol":  "UMAC",
+                          "price":  null,
+                          "changePct":  null,
+                          "status":  "STOP",
+                          "stopPrice":  null,
+                          "note":  "Range trade; no specific news"
+                      },
+                      {
+                          "symbol":  "PANW",
+                          "price":  null,
+                          "changePct":  null,
+                          "status":  "STOP",
+                          "stopPrice":  null,
+                          "note":  "Range trade short; risk-on NQ lift is pressure on short"
+                      },
+                      {
+                          "symbol":  "ZS",
+                          "price":  null,
+                          "changePct":  null,
+                          "status":  "HOLD",
+                          "stopPrice":  null,
+                          "note":  "Range trade; no specific news today"
+                      },
+                      {
+                          "symbol":  "PYPL",
+                          "price":  null,
+                          "changePct":  null,
+                          "status":  "HOLD",
+                          "stopPrice":  null,
+                          "note":  "Range trade; risk-on supportive"
+                      },
+                      {
+                          "symbol":  "NOW",
+                          "price":  97.00,
+                          "changePct":  2.0,
+                          "status":  "STOP",
+                          "stopPrice":  92.50,
+                          "note":  "Range trade; stop $92.50 (prior close $95.46 minus 3%)"
+                      },
+                      {
+                          "symbol":  "SMCI",
+                          "price":  null,
+                          "changePct":  null,
+                          "status":  "STOP",
+                          "stopPrice":  null,
+                          "note":  "Short range trade; semi strength is headwind on short"
+                      },
+                      {
+                          "symbol":  "NUKZ",
+                          "price":  null,
+                          "changePct":  null,
+                          "status":  "HOLD",
+                          "stopPrice":  null,
+                          "note":  "Nuclear ETF; sector headwinds but thesis hold"
+                      },
+                      {
+                          "symbol":  "FCEL",
+                          "price":  null,
+                          "changePct":  null,
+                          "status":  "HOLD",
+                          "stopPrice":  null,
+                          "note":  "No specific news today"
+                      },
+                      {
+                          "symbol":  "BE",
+                          "price":  null,
+                          "changePct":  null,
+                          "status":  "HOLD",
+                          "stopPrice":  null,
+                          "note":  "Risk-on lift; no specific news"
+                      },
+                      {
+                          "symbol":  "IBM",
+                          "price":  null,
+                          "changePct":  null,
+                          "status":  "HOLD",
+                          "stopPrice":  null,
+                          "note":  "No specific news today"
+                      },
+                      {
+                          "symbol":  "SKHY",
+                          "price":  null,
+                          "changePct":  4.7,
+                          "status":  "HOLD",
+                          "stopPrice":  null,
+                          "note":  "SK Hynix +4.7% pre-mkt on CXMT Shanghai debut momentum"
+                      },
+                      {
+                          "symbol":  "PPA",
+                          "price":  null,
+                          "changePct":  null,
+                          "status":  "STOP",
+                          "stopPrice":  null,
+                          "note":  "Short ETF; risk-on lift is headwind on short"
+                      },
+                      {
+                          "symbol":  "SLV",
+                          "price":  null,
+                          "changePct":  null,
+                          "status":  "STOP",
+                          "stopPrice":  null,
+                          "note":  "Short; gold/silver complex mixed today"
+                      },
+                      {
+                          "symbol":  "IONQ",
+                          "price":  null,
+                          "changePct":  null,
+                          "status":  "HOLD",
+                          "stopPrice":  null,
+                          "note":  "Short thesis hold; quantum sector no news"
+                      },
+                      {
+                          "symbol":  "COPX",
+                          "price":  null,
+                          "changePct":  null,
+                          "status":  "HOLD",
+                          "stopPrice":  null,
+                          "note":  "Short; copper mixed; no specific news"
+                      },
+                      {
+                          "symbol":  "SOUN",
+                          "price":  null,
+                          "changePct":  null,
+                          "status":  "HOLD",
+                          "stopPrice":  null,
+                          "note":  "No specific news today"
+                      },
+                      {
+                          "symbol":  "DTCR",
+                          "price":  null,
+                          "changePct":  null,
+                          "status":  "HOLD",
+                          "stopPrice":  null,
+                          "note":  "Short; no specific news"
+                      },
+                      {
+                          "symbol":  "SIDU",
+                          "price":  null,
+                          "changePct":  null,
+                          "status":  "HOLD",
+                          "stopPrice":  null,
+                          "note":  "No specific news today"
+                      },
+                      {
+                          "symbol":  "ICHR",
+                          "price":  null,
+                          "changePct":  null,
+                          "status":  "HOLD",
+                          "stopPrice":  null,
+                          "note":  "Short; semi strength is headwind on short"
+                      },
+                      {
+                          "symbol":  "WOLF",
+                          "price":  null,
+                          "changePct":  null,
+                          "status":  "HOLD",
+                          "stopPrice":  null,
+                          "note":  "No specific news today"
+                      },
+                      {
+                          "symbol":  "ARM",
+                          "price":  null,
+                          "changePct":  null,
+                          "status":  "HOLD",
+                          "stopPrice":  null,
+                          "note":  "Semi complex tailwind with NQ +1.4%"
+                      },
+                      {
+                          "symbol":  "PLUG",
+                          "price":  null,
+                          "changePct":  null,
+                          "status":  "HOLD",
+                          "stopPrice":  null,
+                          "note":  "No specific news today"
+                      },
+                      {
+                          "symbol":  "NTLA",
+                          "price":  null,
+                          "changePct":  null,
+                          "status":  "HOLD",
+                          "stopPrice":  null,
+                          "note":  "No specific news today"
+                      },
+                      {
+                          "symbol":  "XNDU",
+                          "price":  null,
+                          "changePct":  null,
+                          "status":  "HOLD",
+                          "stopPrice":  null,
+                          "note":  "Short; no specific news"
+                      },
+                      {
+                          "symbol":  "NET",
+                          "price":  null,
+                          "changePct":  null,
+                          "status":  "HOLD",
+                          "stopPrice":  null,
+                          "note":  "No specific news; NQ lift supportive"
+                      },
+                      {
+                          "symbol":  "SERV",
+                          "price":  null,
+                          "changePct":  null,
+                          "status":  "HOLD",
+                          "stopPrice":  null,
+                          "note":  "No specific news today"
+                      },
+                      {
+                          "symbol":  "MCHP",
+                          "price":  null,
+                          "changePct":  null,
+                          "status":  "HOLD",
+                          "stopPrice":  null,
+                          "note":  "Semi complex tailwind"
+                      }
+                  ]
 }
