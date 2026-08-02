@@ -82,6 +82,18 @@
     white-space:nowrap; margin:0 8px;}
   .witem .lprice{font-size:13px; font-family:'Inter',sans-serif; color:var(--label); flex-shrink:0;}
 
+  .pos-live{font-size:11px; font-family:'Inter',sans-serif; color:var(--blue); margin-top:2px;}
+
+  .fbcard h2{cursor:pointer; display:flex; align-items:center; justify-content:space-between; margin-bottom:0;}
+  .fbcard h2 .caret{font-size:14px; color:var(--gold); transition:transform 0.15s; line-height:1;}
+  .fbcard.open h2 .caret{transform:rotate(90deg);}
+  .fbcard h2 .hint{font-size:10px; color:var(--dim); font-weight:400; text-transform:none; letter-spacing:0; margin-left:8px;}
+  .fbbody{display:none; margin-top:10px;}
+  .fbcard.open .fbbody{display:block;}
+  .fbline{font-size:12.5px; line-height:1.5; color:var(--text); padding:6px 0; border-bottom:1px solid var(--border);}
+  .fbline:last-child{border-bottom:none;}
+  .fbline .fsym{font-weight:700; font-family:'Inter',sans-serif; color:var(--label); margin-right:5px;}
+
   .empty{color:var(--dim); font-size:13px; text-align:center; padding:20px 0;}
   footer{text-align:center; color:#565b64; font-size:10.5px; margin-top:18px; line-height:1.6;}
 </style>
@@ -121,6 +133,11 @@
   <div class="card">
     <h2>Long Holds</h2>
     <div class="watchlist" id="longList"><div class="empty">&mdash;</div></div>
+  </div>
+
+  <div class="card fbcard" id="fbCard">
+    <h2 onclick="toggleFullBrief()"><span>Full Briefing <span class="hint">tap to expand</span></span><span class="caret">&rsaquo;</span></h2>
+    <div class="fbbody" id="fbBody"><div class="empty">&mdash;</div></div>
   </div>
 
   <footer>
@@ -202,6 +219,7 @@ function renderPositions(positions){
       </div>
       <div class="pos-right">
         <div class="pos-price">${priceText} <span class="pos-chg ${chgClass}">${chgText}</span></div>
+        <div class="pos-live liveprice" data-sym="${p.symbol || ''}">&hellip;</div>
         <div class="badge ${sc}">${statusLabel}</div>
       </div>
     </div>`;
@@ -219,29 +237,63 @@ function renderWatchlist(elId, items, thesisKey){
     return `<div class="witem">
       <div class="sym">${it.symbol}</div>
       <div class="note">${note}</div>
-      <div class="lprice" id="lp-${it.symbol}">&hellip;</div>
+      <div class="lprice liveprice" data-sym="${it.symbol}">&hellip;</div>
     </div>`;
   }).join('');
-  items.forEach(it => fetchLivePrice(it.symbol));
 }
 
-async function fetchLivePrice(symbol){
-  const target = document.getElementById('lp-' + symbol);
-  if(!target) return;
+const priceCache = {};
+async function fetchQuote(symbol){
+  if(symbol in priceCache) return priceCache[symbol];
   try{
     const res = await fetch(`https://query1.finance.yahoo.com/v8/finance/chart/${encodeURIComponent(symbol)}?range=1d&interval=1m`);
     if(!res.ok) throw new Error('bad response');
     const j = await res.json();
     const result = j.chart && j.chart.result && j.chart.result[0];
     const price = result && result.meta && (result.meta.regularMarketPrice ?? result.meta.previousClose);
-    if(typeof price === 'number'){
-      target.textContent = '$' + price.toFixed(2);
-    } else {
-      target.textContent = '—';
-    }
+    priceCache[symbol] = (typeof price === 'number') ? price : null;
   } catch(e){
-    target.textContent = '—';
+    priceCache[symbol] = null;
   }
+  return priceCache[symbol];
+}
+
+async function hydrateLivePrices(){
+  const els = Array.from(document.querySelectorAll('.liveprice'));
+  const syms = [...new Set(els.map(e => e.getAttribute('data-sym')).filter(Boolean))];
+  await Promise.all(syms.map(async sym => {
+    const price = await fetchQuote(sym);
+    document.querySelectorAll('.liveprice[data-sym="' + sym + '"]').forEach(el => {
+      const isPos = el.classList.contains('pos-live');
+      if(price === null){ el.textContent = isPos ? '' : '—'; return; }
+      el.textContent = (isPos ? 'Live $' : '$') + price.toFixed(2);
+    });
+  }));
+}
+
+function renderFullBrief(text){
+  const card = document.getElementById('fbCard');
+  const body = document.getElementById('fbBody');
+  if(!text){ body.innerHTML = '<div class="empty">&mdash;</div>'; return; }
+  const lines = text.split('\n').map(s => s.trim()).filter(Boolean);
+  body.innerHTML = lines.map(line => {
+    const m = line.match(/^([A-Z]{1,5})\s/);
+    if(m){
+      const sym = m[1];
+      const rest = line.slice(sym.length);
+      return '<div class="fbline"><span class="fsym">' + sym + '</span>' + rest + '</div>';
+    }
+    return '<div class="fbline">' + line + '</div>';
+  }).join('');
+  let open = false;
+  try{ open = localStorage.getItem('mp_fb_open') === '1'; }catch(e){}
+  card.classList.toggle('open', open);
+}
+
+function toggleFullBrief(){
+  const card = document.getElementById('fbCard');
+  const open = card.classList.toggle('open');
+  try{ localStorage.setItem('mp_fb_open', open ? '1' : '0'); }catch(e){}
 }
 
 async function loadAll(){
@@ -268,6 +320,8 @@ async function loadAll(){
     renderPositions(d.positions);
     renderWatchlist('rangeList', d.rangeWatch, 'notes');
     renderWatchlist('longList', d.longWatch, 'thesis');
+    renderFullBrief(d.fullBrief);
+    hydrateLivePrices();
 
   } catch(e){
     document.getElementById('freshness').textContent = 'Could not load data';
