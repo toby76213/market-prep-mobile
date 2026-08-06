@@ -1,5 +1,5 @@
 ﻿{
-    "catalyst":  "SMR Q2 earnings after bell today -- TVA PPA update key; AMD gap-down -8.5% may weigh on semi names at open",
+    "catalyst":  "SMR Q2 earnings reaction trade at open; NQ open print key for AI/tech names; watch Iran/Hormuz deal confirmation headline for risk-on yield support",
     "rangeWatch":  [
                        {
                            "symbol":  "CRDO",
@@ -34,15 +34,17 @@
                            "notes":  "Added manually."
                        }
                    ],
-    "standouts":  "AMD -8.5% pre-mkt on AI capex jitter post-earnings; LLY +6.5% beat; Kratos +10%; AI spending skepticism hitting space/semi sectors",
-    "macro":  "ES futs +0.4%; NQ closed +3.3% Tue on record S\u0026P/Dow highs; 10yr yield ~4.65%; VIX est ~14-15 benign; Fed Sept hike prob ~65%; Warsh no forward guidance",
-    "fullBrief":  "Macro: ES futs +0.4%, NQ closed +3.3% Tue on record S\u0026P/Dow highs driven by strong earnings and oil pullback; 10yr yield ~4.65% steady; VIX estimated benign ~14-15; Fed rate hike Sept probability ~65%, Chair Warsh offering no forward guidance.\nPre-market standouts: AMD -8.5% post-earnings miss on AI capex jitter narrative; Eli Lilly +6.5% on beat; Kratos Defense +10%; AI spending skepticism hitting space and semi sectors per pre-market scanners.\nSMR (~$8.92, flat/+0.5%): HOLD — Q2 earnings AFTER THE BELL today, TVA 6GW PPA update expected; thesis hold into print but volatility elevated.\nOKLO (~$41-42, flat): HOLD — no specific news today; pre-construction Idaho National Lab on track; nuclear sector thesis intact.\nUEC (~$9.90, flat): HOLD — uranium miner thesis intact; no specific news today.\nINTC (~$100+, monitoring): HOLD — surged +10.8% Tuesday on strong earnings; AMD drag may pressure pre-market; thesis intact.\nNBIS (~$188, monitoring): GAP WATCH — AI stocks in focus amid Situational Awareness investment story; AI capex jitter could pressure; thesis hold.\nHIMS (~$30, flat): HOLD — no specific news; thesis intact.\nSKHY (~$143, flat): HOLD — bullish retail sentiment on semi rally; monitor AMD sympathy pressure.\nNOW (~$108 est.): STOP $105.00 — range trade; stop set at 3% below prior close; AI spending skepticism a modest headwind.\nLUNR (~$13, flat): HOLD — no specific news; space thesis intact.\nJOBY (~$7.37, flat): HOLD — no specific news today; eVTOL thesis intact.\nIBM (~$223 est.): HOLD — surged +3.91% in Dow rally Tuesday on earnings beat; thesis intact.\nFCEL (~$21, flat): HOLD — no specific news; fuel cell thesis intact.\nBE (~$188, flat): HOLD — no specific news; clean energy thesis intact.\nNVTS (~$11, flat): HOLD — no specific news; thesis intact.\nNUKZ (~$64, flat): HOLD — nuclear ETF tracks sector; SMR earnings after bell is the sympathy catalyst today.\nCatalyst to watch at open: SMR Q2 2026 earnings after market close today — TVA PPA update and any revenue guidance will move SMR, OKLO, NUKZ, and UEC; AMD gap-down -8.5% may continue to weigh on semi names at open.",
+    "standouts":  "Peloton -14% Q4 miss, Moderna +4% FDA mRNA approval, SNDK -5% memory results; SKHY elevated option volume bullish; AI momentum names soft",
+    "macro":  "ES +0.1% NQ -0.6% Dow +0.2%; VIX 15.96; 10yr yield ~4.60% falling on Iran/Strait of Hormuz de-escalation easing inflation fears",
+    "fullBrief":  "ES +0.1%, NQ -0.6%, Dow +0.2%; VIX 15.96 calm; 10yr yield ~4.60% and falling on Iran/Strait of Hormuz de-escalation progress easing inflation fears.\nPre-market standouts not in book: Peloton -14% on Q4 miss, Moderna +4% FDA mRNA flu vaccine approval, SNDK -5% on memory results; SKHY in elevated option volume list with bullish sentiment.\nSMR ~$8.50, est. flat-to-slight dip post Q2 earnings reported Aug 5 AC; HOLD — thesis intact, Barclays $11 PT, long-term SMR tailwinds unchanged despite sector valuation scrutiny.\nOKLO ~$41.50, est. -0.5%; HOLD — Meta power campus commitment and DOE Reactor Pilot Program progress underpin thesis; no thesis-breaking news today.\nUEC ~$9.85, est. -0.5%; HOLD — uranium miner with existing revenue; sector rotation pressure but long-term thesis intact.\nNBIS ~$186.00, est. -1%; GAP WATCH — NQ -0.6% and AI momentum selloff narrative weighs on high-beta AI names; monitor for flush at open.\nINTC ~$90.50, est. -0.7%; HOLD — NQ drag; thesis hold classification applies; chip sector under pressure but no INTC-specific news.\nSKHY ~$142.00, est. -0.7%; HOLD — elevated option volume today, bullish retail sentiment; NQ headwind but no thesis event.\nHIMS ~$30.00, est. -0.5%; HOLD — earnings not until Aug 10; no news today.\nJOBY ~$7.30, est. -0.5%; HOLD — in elevated IV report list; no specific news; eVTOL thesis intact.\nLUNR ~$13.20, est. -0.5%; HOLD — no specific news today; space thesis intact.\nIBM ~$215.00, est. -0.7%; HOLD — NQ drag; no IBM-specific news; thesis hold.\nBE ~$187.00, est. -0.5%; HOLD — no news; fuel cell/energy thesis intact.\nFCEL ~$21.30, est. -0.5%; HOLD — no news; thesis hold.\nNVTS ~$11.35, est. -0.3%; HOLD — small position; no news.\nNUKZ ~$63.80, est. -0.8%; HOLD — nuclear ETF softness mirrors sector; thesis hold.\nNOW ~$104.50, est. -1%; STOP $102.25 — range trade; watch for break below $102.25 on open; no catalyst today.\nCatalyst to watch at open: SMR Q2 earnings reaction trade (reported last night AC), NQ opening print given -0.6% futures, and any headline on Iran/Hormuz deal confirmation which could further support 10yr yield decline and risk-on rotation.",
     "marketDirection":  {
-                            "es":  "+0.4%"
+                            "vix":  "16",
+                            "nq":  "-0.6%",
+                            "es":  "+0.1%"
                         },
-    "generatedAt":  "2026-08-05T13:15:57Z",
-    "asOfLabel":  "2026-08-05, 9:15 AM ET",
-    "watchAlert":  "ES +0.4% AMD -8.5% AI jitter | SMR EARNINGS AC TODAY HOLD | OKLO HOLD | NOW STOP $105.00 | NBIS GAP WATCH",
+    "generatedAt":  "2026-08-06T13:16:04Z",
+    "asOfLabel":  "2026-08-06, 9:15 AM ET",
+    "watchAlert":  "ES +0.1% NQ -0.6% VIX 16 | SMR HOLD post-Q2 earnings | OKLO HOLD nuclear thesis intact | NOW STOP $102.25 | NBIS GAP WATCH NQ drag",
     "longWatch":  [
                       {
                           "symbol":  "OKLO",
@@ -80,123 +82,123 @@
     "positions":  [
                       {
                           "symbol":  "SMR",
-                          "price":  8.92,
-                          "changePct":  0.5,
+                          "price":  8.50,
+                          "changePct":  -0.5,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "Q2 earnings after bell today; TVA PPA update pivotal; thesis hold into print"
+                          "note":  "Q2 earnings reported Aug 5 AC; Barclays $11 PT; thesis intact despite valuation scrutiny"
+                      },
+                      {
+                          "symbol":  "UEC",
+                          "price":  9.85,
+                          "changePct":  -0.5,
+                          "status":  "HOLD",
+                          "stopPrice":  null,
+                          "note":  "uranium miner thesis intact; sector rotation pressure but revenue-generating"
+                      },
+                      {
+                          "symbol":  "NBIS",
+                          "price":  186.00,
+                          "changePct":  -1.0,
+                          "status":  "GAP WATCH",
+                          "stopPrice":  null,
+                          "note":  "NQ -0.6% drag and AI momentum selloff; monitor for flush at open"
+                      },
+                      {
+                          "symbol":  "INTC",
+                          "price":  90.50,
+                          "changePct":  -0.7,
+                          "status":  "HOLD",
+                          "stopPrice":  null,
+                          "note":  "NQ headwind; no INTC-specific news; thesis hold"
+                      },
+                      {
+                          "symbol":  "HIMS",
+                          "price":  30.00,
+                          "changePct":  -0.5,
+                          "status":  "HOLD",
+                          "stopPrice":  null,
+                          "note":  "earnings Aug 10 not today; no news"
+                      },
+                      {
+                          "symbol":  "SKHY",
+                          "price":  142.00,
+                          "changePct":  -0.7,
+                          "status":  "HOLD",
+                          "stopPrice":  null,
+                          "note":  "elevated option volume; bullish retail sentiment; NQ headwind"
                       },
                       {
                           "symbol":  "OKLO",
                           "price":  41.50,
-                          "changePct":  0.0,
+                          "changePct":  -0.5,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "No news today; Idaho pre-construction on track; nuclear thesis intact"
-                      },
-                      {
-                          "symbol":  "UEC",
-                          "price":  9.90,
-                          "changePct":  0.0,
-                          "status":  "HOLD",
-                          "stopPrice":  null,
-                          "note":  "No specific news today; uranium miner thesis intact"
-                      },
-                      {
-                          "symbol":  "INTC",
-                          "price":  100.50,
-                          "changePct":  -1.0,
-                          "status":  "HOLD",
-                          "stopPrice":  null,
-                          "note":  "Surged +10.8% Tuesday on earnings; AMD drag may pressure pre-mkt; thesis intact"
-                      },
-                      {
-                          "symbol":  "HIMS",
-                          "price":  30.24,
-                          "changePct":  0.0,
-                          "status":  "HOLD",
-                          "stopPrice":  null,
-                          "note":  "No specific news today; thesis intact"
-                      },
-                      {
-                          "symbol":  "SKHY",
-                          "price":  143.00,
-                          "changePct":  0.0,
-                          "status":  "HOLD",
-                          "stopPrice":  null,
-                          "note":  "Bullish retail sentiment on semi rally; monitor AMD sympathy pressure"
-                      },
-                      {
-                          "symbol":  "NBIS",
-                          "price":  187.50,
-                          "changePct":  -0.2,
-                          "status":  "GAP WATCH",
-                          "stopPrice":  null,
-                          "note":  "AI stocks in focus; AI capex jitter risk; thesis hold"
+                          "note":  "Meta power campus commitment intact; DOE Reactor Pilot Program ongoing; no thesis break"
                       },
                       {
                           "symbol":  "NOW",
-                          "price":  107.50,
-                          "changePct":  -0.5,
+                          "price":  104.50,
+                          "changePct":  -1.0,
                           "status":  "STOP",
-                          "stopPrice":  105.00,
-                          "note":  "Range trade; 3% ATR stop below prior close; AI capex headwind"
+                          "stopPrice":  102.25,
+                          "note":  "range trade; stop = prior close -3% rounded; no catalyst today"
                       },
                       {
                           "symbol":  "LUNR",
-                          "price":  13.30,
-                          "changePct":  0.0,
+                          "price":  13.20,
+                          "changePct":  -0.5,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "No specific news; space thesis intact"
+                          "note":  "no specific news; space thesis intact"
                       },
                       {
                           "symbol":  "JOBY",
-                          "price":  7.37,
-                          "changePct":  0.0,
+                          "price":  7.30,
+                          "changePct":  -0.5,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "No specific news today; eVTOL thesis intact"
+                          "note":  "in elevated IV report list; no specific news; eVTOL thesis intact"
                       },
                       {
                           "symbol":  "IBM",
-                          "price":  223.00,
-                          "changePct":  0.5,
+                          "price":  215.00,
+                          "changePct":  -0.7,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "Rose +3.91% in Tue Dow rally on earnings beat"
+                          "note":  "NQ drag; no IBM-specific news today"
                       },
                       {
                           "symbol":  "FCEL",
-                          "price":  21.49,
-                          "changePct":  0.0,
+                          "price":  21.30,
+                          "changePct":  -0.5,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "No specific news; fuel cell thesis intact"
+                          "note":  "no news; thesis hold"
                       },
                       {
                           "symbol":  "BE",
-                          "price":  188.00,
-                          "changePct":  0.0,
+                          "price":  187.00,
+                          "changePct":  -0.5,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "No specific news; clean energy thesis intact"
+                          "note":  "no news; energy thesis intact"
                       },
                       {
                           "symbol":  "NVTS",
-                          "price":  11.40,
-                          "changePct":  0.0,
+                          "price":  11.35,
+                          "changePct":  -0.3,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "No specific news; thesis intact"
+                          "note":  "small position; no news"
                       },
                       {
                           "symbol":  "NUKZ",
-                          "price":  64.35,
-                          "changePct":  0.0,
+                          "price":  63.80,
+                          "changePct":  -0.8,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "Nuclear ETF; SMR after-bell earnings is sympathy catalyst today"
+                          "note":  "nuclear ETF soft mirroring sector; thesis hold"
                       }
                   ]
 }
