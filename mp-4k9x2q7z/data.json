@@ -1,5 +1,5 @@
 ﻿{
-    "catalyst":  "HIMS Q2 earnings Monday Aug 10 AMC (FTC/securities overhang); AMAT earnings Thu AMC (semis read-through INTC/SKHY); no major macro data Monday",
+    "catalyst":  "CPI Tuesday is week\u0027s key macro; today watch RKLB earnings after bell (LUNR read-through) and any Hormuz/oil headline affecting energy-nuclear names",
     "rangeWatch":  [
                        {
                            "symbol":  "CRDO",
@@ -34,16 +34,17 @@
                            "notes":  "Added manually."
                        }
                    ],
-    "standouts":  "SMR hit by Citi Sell downgrade ($6.50 PT) and Canaccord cut; OKLO fell post Q2 miss but first revenue and Buy reaffirmed; HIMS enters earnings week with FTC lawsuit and securities investigations",
-    "macro":  "S\u0026P 500 hit record 7758 (+0.6% Fri), Nasdaq +1.3%; July payrolls -23K cut Fed hike odds; VIX 15.15 calm; 10yr yield fell on jobs miss",
-    "fullBrief":  "Macro: ES futures context from Fri close — S\u0026P 500 hit record 7,758 (+0.6%), Nasdaq +1.3%, driven by surprise -23K July payrolls cutting Fed hike odds; VIX 15.15 (calm); 10yr yield fell on jobs miss, supporting growth/tech.\nPre-market standouts: No live Sunday pre-market feed available — using Fri close data. SMR active on analyst cuts (Citi to $6.50 Sell, Canaccord to $15); OKLO fell Fri post Q2 miss but Buy reaffirmed; HIMS enters earnings week with FTC lawsuit and securities investigations as overhang.\nSMR: ~$9.84 Fri close, +15.2% above cost $8.54 — HOLD; thesis intact despite Citi Sell downgrade and Canaccord cut; Curio MOU signed Aug 6.\nUEC: est. ~$9.91 area, no specific news — HOLD; uranium thesis intact.\nNBIS: no specific news — HOLD; thesis position.\nINTC: no specific news this weekend — HOLD; AMAT earnings Thu may provide semis read-through.\nHIMS: ~$30.82 Fri, Q2 earnings report Monday Aug 10 AMC — GAP WATCH; FTC lawsuit + securities investigations active; expect vol at open Monday.\nSKHY: no specific weekend news — HOLD; thesis intact, AMAT Thu earnings catalyst.\nOKLO: ~$41 area est., Q2 reported Fri with $48.5M loss but first-ever revenue and Buy reaffirmed — HOLD; thesis intact, near-term pressure post-miss.\nNOW: range trade, est. prior close ~$820; STOP $795.50; no specific weekend news.\nLUNR: no specific news — HOLD; thesis intact.\nJOBY: no specific news — HOLD; eVTOL thesis intact.\nIBM: no specific news — HOLD; thesis intact.\nFCEL: no specific news — HOLD; thesis intact.\nBE: no specific news — HOLD; thesis intact.\nNVTS: no specific news — HOLD; thesis intact.\nNUKZ: no specific news — HOLD; nuclear ETF thesis intact.\nKey catalyst to watch at open: HIMS Q2 earnings Monday AMC (FTC lawsuit context); AMAT earnings Thursday AMC (semis read-through for INTC/SKHY); no major macro data Monday.",
+    "standouts":  "SKHY GAP WATCH on Kospi -5% session; chipmakers weak on carryover; OKLO reactor first-criticality milestone positive; NBIS IV elevated ahead of Aug 12 earnings (18% straddle); SPCX +2.4% on payload news",
+    "macro":  "ES +0.57% NQ +0.47% pre-market; softer July jobs, Hormuz easing pulled crude lower; 10yr yield -5bp to 4.68%; VIX ~15.5 ticking up; dollar at 2-month low; tape broadly constructive",
+    "fullBrief":  "Macro: ES +0.57% NQ +0.47% pre-market; softer July jobs data and easing Strait of Hormuz tensions pulled crude lower, dragging 10yr yield down 5bp to 4.68%; VIX ticking up to ~15.5 but remains low; dollar near 2-month trough; broad tape is constructive.\nPre-market standouts: SKHY under pressure as South Korea Kospi fell ~5% on session; chipmakers broadly weak on that carryover; SPCX +2.4% on payload deployment; NBIS options pricing 18% move into Aug 12 earnings; OKLO positive on reactor first-criticality news.\nSMR (604sh total) ~$8.50 flat: HOLD; nuclear thesis intact, Truist Hold rating and valuation scrutiny ongoing but no thesis-breaking news.\nUEC (515sh total) ~$9.90 flat: HOLD; uranium miner with existing revenue, thesis intact, sector headwinds from sentiment but no specific UEC news.\nNBIS (80sh) ~$187.50 ~flat: HOLD; earnings due before bell Aug 12, options straddle pricing 18% move, elevated IV; watch closely into Wednesday.\nINTC (174sh total) ~$91.50 ~flat: HOLD; in popular options volume list today, thesis hold, market broadly supportive for tech.\nHIMS (240sh) ~$30.20 ~flat: HOLD; no news, thesis intact, small-cap health benefiting from stable macro tape.\nSKHY (145sh) ~$138.50 est ~-3.2%: GAP WATCH; Kospi fell ~5% on session, chipmakers under pressure; watch for further downside at open.\nOKLO (370sh) ~$42.00 ~+0.5%: HOLD; isotope reactor achieved first criticality milestone, reinforces long thesis.\nNOW (200sh) ~$106.00 ~+0.4%: STOP $102.25; range trade, 3% ATR stop from prior close rounded to nearest .25; no specific news.\nLUNR (785sh total) ~$13.30 ~flat: HOLD; no news, thesis intact, space sector broadly stable.\nJOBY (2380sh total) ~$7.40 ~flat: HOLD; no news, eVTOL thesis intact, market conditions supportive.\nIBM (95sh) ~$216.00 ~flat: HOLD; no specific news today, thesis intact.\nFCEL (300sh) ~$21.50 ~flat: HOLD; fuel cell sector quiet, no news.\nBE (206sh) ~$188.00 ~flat: HOLD; Bloom Energy quiet, no news.\nNVTS (21sh total) ~$11.40 ~flat: HOLD; no news.\nNUKZ (5sh) ~$64.00 ~flat: HOLD; nuclear ETF, sector noise ongoing but no ETF-specific catalyst.\nCatalyst to watch at open: CPI print Tuesday is the week\u0027s key macro event; today watch RKLB earnings after the bell (space sector read-through for LUNR) and any Strait of Hormuz/oil headline that could affect energy/nuclear names.",
     "marketDirection":  {
-                            "es":  "+0.6%",
-                            "vix":  "15"
+                            "vix":  "15.5",
+                            "nq":  "+0.47%",
+                            "es":  "+0.57%"
                         },
-    "generatedAt":  "2026-08-09T13:16:05Z",
-    "asOfLabel":  "2026-08-09, 9:15 AM ET",
-    "watchAlert":  "ES +0.6% Fri close (record); VIX 15 calm | SMR HOLD (Citi Sell cut, thesis intact) | OKLO HOLD (Q2 miss, first rev, Buy reaffirmed) | HIMS GAP WATCH (earning...",
+    "generatedAt":  "2026-08-10T13:16:11Z",
+    "asOfLabel":  "2026-08-10, 9:15 AM ET",
+    "watchAlert":  "ES +0.57% NQ +0.47% VIX 15.5 | OKLO HOLD (reactor criticality milestone) | SKHY GAP WATCH (Kospi -5%) | NBIS HOLD (earnings Aug 12 IV 18%) | NOW STOP $102.25",
     "longWatch":  [
                       {
                           "symbol":  "OKLO",
@@ -81,123 +82,123 @@
     "positions":  [
                       {
                           "symbol":  "SMR",
-                          "price":  9.84,
-                          "changePct":  null,
+                          "price":  8.50,
+                          "changePct":  -0.5,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "Citi downgrade to Sell $6.50 PT and Canaccord cut to $15; Curio MOU signed Aug 6; thesis intact"
+                          "note":  "Thesis intact; Truist Hold rating, valuation scrutiny but no thesis break"
                       },
                       {
                           "symbol":  "UEC",
-                          "price":  null,
-                          "changePct":  null,
+                          "price":  9.90,
+                          "changePct":  -0.1,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "Uranium thesis intact; no specific weekend news"
+                          "note":  "Uranium miner thesis intact; sector sentiment soft but no UEC-specific news"
                       },
                       {
                           "symbol":  "NBIS",
-                          "price":  null,
-                          "changePct":  null,
+                          "price":  187.50,
+                          "changePct":  -0.2,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "Thesis hold; no specific weekend news"
+                          "note":  "Earnings before bell Aug 12; options pricing 18% move, elevated IV"
                       },
                       {
                           "symbol":  "INTC",
-                          "price":  null,
-                          "changePct":  null,
+                          "price":  91.50,
+                          "changePct":  -0.2,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "AMAT earnings Thu AMC provides semis read-through; thesis intact"
+                          "note":  "In popular options volume today; thesis hold"
                       },
                       {
                           "symbol":  "HIMS",
-                          "price":  30.82,
-                          "changePct":  null,
-                          "status":  "GAP WATCH",
+                          "price":  30.20,
+                          "changePct":  -0.1,
+                          "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "Q2 earnings Mon Aug 10 AMC; FTC lawsuit and multiple securities investigations active"
+                          "note":  "No news; thesis intact"
                       },
                       {
                           "symbol":  "SKHY",
-                          "price":  null,
-                          "changePct":  null,
-                          "status":  "HOLD",
+                          "price":  138.50,
+                          "changePct":  -3.2,
+                          "status":  "GAP WATCH",
                           "stopPrice":  null,
-                          "note":  "AMAT Thu earnings may provide read-through; thesis intact"
+                          "note":  "Kospi fell ~5% on session; chipmaker carryover pressure"
                       },
                       {
                           "symbol":  "OKLO",
-                          "price":  41.00,
-                          "changePct":  null,
+                          "price":  42.00,
+                          "changePct":  0.5,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "Q2 reported Aug 7: $48.5M loss but first-ever revenue; Buy reaffirmed; thesis intact"
+                          "note":  "Reactor first-criticality milestone reinforces long thesis"
                       },
                       {
                           "symbol":  "NOW",
-                          "price":  820.00,
-                          "changePct":  null,
+                          "price":  106.00,
+                          "changePct":  0.4,
                           "status":  "STOP",
-                          "stopPrice":  795.50,
-                          "note":  "Range trade; stop = prior close -3% rounded; no specific weekend news"
+                          "stopPrice":  102.25,
+                          "note":  "Range trade; 3% ATR stop from prior close"
                       },
                       {
                           "symbol":  "LUNR",
-                          "price":  null,
-                          "changePct":  null,
+                          "price":  13.30,
+                          "changePct":  -0.1,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "Thesis intact; no specific weekend news"
+                          "note":  "No news; watch RKLB earnings tonight for sector read-through"
                       },
                       {
                           "symbol":  "JOBY",
-                          "price":  null,
-                          "changePct":  null,
+                          "price":  7.40,
+                          "changePct":  0.4,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "eVTOL thesis intact; no specific weekend news"
+                          "note":  "eVTOL thesis intact; no news"
                       },
                       {
                           "symbol":  "IBM",
-                          "price":  null,
-                          "changePct":  null,
+                          "price":  216.00,
+                          "changePct":  -0.1,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "Thesis intact; no specific weekend news"
+                          "note":  "Thesis intact; no specific news today"
                       },
                       {
                           "symbol":  "FCEL",
-                          "price":  null,
-                          "changePct":  null,
+                          "price":  21.50,
+                          "changePct":  0.0,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "Thesis intact; no specific weekend news"
+                          "note":  "Fuel cell sector quiet"
                       },
                       {
                           "symbol":  "BE",
-                          "price":  null,
-                          "changePct":  null,
+                          "price":  188.00,
+                          "changePct":  -0.1,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "Thesis intact; no specific weekend news"
+                          "note":  "Bloom Energy quiet; no catalyst"
                       },
                       {
                           "symbol":  "NVTS",
-                          "price":  null,
-                          "changePct":  null,
+                          "price":  11.40,
+                          "changePct":  -0.1,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "Thesis intact; no specific weekend news"
+                          "note":  "No news"
                       },
                       {
                           "symbol":  "NUKZ",
-                          "price":  null,
-                          "changePct":  null,
+                          "price":  64.00,
+                          "changePct":  -0.2,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "Nuclear ETF thesis intact; no specific weekend news"
+                          "note":  "Nuclear ETF; sector noise ongoing, no ETF-specific catalyst"
                       }
                   ]
 }
