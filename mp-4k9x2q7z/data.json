@@ -1,5 +1,5 @@
 ﻿{
-    "catalyst":  "HIMS post-earnings volatility at open; INTC secondary digestion; no major data release today -- dominant macro event is CPI Wednesday morning",
+    "catalyst":  "Key catalyst at open: NBIS Q2 2026 earnings released pre-market — watch revenue growth and guidance for AI infrastructure read-through; also monitor SMR for ATM offering volume/price pressure at open.",
     "rangeWatch":  [
                        {
                            "symbol":  "CRDO",
@@ -34,15 +34,17 @@
                            "notes":  "Added manually."
                        }
                    ],
-    "standouts":  "HIMS falling on Q2 EPS miss; INTC hit by $20B dilutive secondary at $95; RIOT +19% on Q2 beat (not held); BW +34% earnings beat (not held)",
-    "macro":  "ES +0.07% NQ +0.23% near-flat open; VIX 15.5 benign; 10yr yield 4.73% edging up on oil-driven inflation concern; CPI Wed PPI Thu are week catalysts",
-    "fullBrief":  "Macro: ES +0.07% NQ +0.23% near-flat open; VIX 15.5 benign; 10yr yield 4.73% edging up on oil-driven inflation concern; CPI Wed and PPI Thu are the week\u0027s key catalysts.\nPre-market standouts: HIMS falling on Q2 EPS shock; INTC hit by massive $20B dilutive secondary priced at $95; RIOT +19% on strong Q2 (not held); BW +34% on earnings beat (not held).\nSMR ~$8.50 flat, HOLD — nuclear sector rotation pressure persists but thesis intact; Truist Hold-rated, revenue down 98.8% YoY in Q2.\nUEC ~$9.85 flat, HOLD — thesis intact; uranium demand long-term story unchanged despite sector chop.\nNBIS ~$185.00 -1%, HOLD — options market pricing 15% move for Q2 earnings tomorrow pre-market; elevated IV, do not trade into the print.\nINTC ~$93.50, GAP WATCH — $20B common stock secondary upsized and priced at $95; massive dilution event; thesis hold classification means no stop, but monitor for thesis break.\nHIMS ~$27.50 -9%, GAP WATCH — Q2 EPS ($0.37) vs est ($0.01) miss; revenue $753M beat and raised FY guide, but EPS shock driving pre-market selloff.\nSKHY ~$140.00 -2%, HOLD — SK Hynix chipmaker sector under Kospi-linked pressure; Q2 76% operating margin a positive but ADR dragged.\nOKLO ~$41.00 flat, HOLD — analyst PT cuts from Canaccord/Citi; Q2 loss wider than expected; pre-revenue thesis intact.\nNOW ~$105.00 -0.5%, STOP $102.25 — range trade, no specific news; 3% ATR stop at $102.25 active at open.\nLUNR ~$13.20 flat, HOLD — no news today; thesis intact.\nJOBY ~$7.30 flat, HOLD — no news today; eVTOL thesis intact.\nIBM ~$217.00 flat, HOLD — returned to Canada bond market, no material equity catalyst today.\nFCEL ~$21.00 flat, HOLD — no news; fuel cell sector quiet.\nBE ~$187.00 flat, HOLD — unusual options volume flagged on IV report; no specific catalyst identified.\nNVTS ~$11.30 flat, HOLD — no news today.\nNUKZ ~$64.00 flat, HOLD — nuclear ETF tracks sector headwinds.\nCatalyst to watch at open: HIMS post-earnings volatility at 9:30; INTC secondary pricing digestion; CPI report Wednesday morning is the dominant macro event this week — no major data release today.",
+    "standouts":  "Pre-market standouts: CRWV +18% and SMCI +7.5% on blowout earnings drive AI infrastructure sentiment; NBIS +9% to ~$211 ahead of its own Q2 earnings this morning; CAVA +12% (no book exposure).",
+    "macro":  "ES +0.3%, NQ +0.7% on soft July CPI (+0.1% MoM), 10yr yield eased to 4.68%, VIX 15.3 — tech-led risk-on but futures pared initial gains post-print; Fed hike odds for September still contested.",
+    "fullBrief":  "ES +0.3%, NQ +0.7% on soft July CPI (+0.1% MoM), 10yr yield eased to 4.68%, VIX 15.3 — tech-led risk-on but futures pared initial gains post-print; Fed hike odds for September still contested.\nPre-market standouts: CRWV +18% and SMCI +7.5% on blowout earnings drive AI infrastructure sentiment; NBIS +9% to ~$211 ahead of its own Q2 earnings this morning; CAVA +12% (no book exposure).\nSMR (604sh total @ $8.54) — ~$9.60 pre-mkt (+12.4% vs cost); SMR announced ATM offering of up to $750M in common stock — dilution headline but thesis intact; HOLD.\nUEC (515sh total @ $9.91) — ~flat to slight down, UEC off only ~2% YTD, holding far better than SMR/OKLO peers; HOLD.\nNBIS (80sh @ $187.88) — pre-mkt ~$211 (+12.3%), Q2 earnings due before open today; CRWV halo; T1 NEAR — thesis hold, watch post-earnings reaction.\nINTC (174sh total @ $91.67) — pre-mkt ~-1.5%, extended stock sale raised by $5B to $20B total weighing on shares; dilution pressure, below 2% gap threshold; HOLD.\nHIMS (240sh @ $30.24) — no news, slight positive tone with market; HOLD.\nSKHY (145sh @ $143.02) — no pre-market news; quiet; HOLD.\nOKLO (370sh @ $41.81) — down ~35% YTD; no fresh thesis-breaking news today; AI power demand narrative intact long-term; HOLD.\nNOW (200sh @ $105.56) — range trade; software names are among some of the index\u0027s biggest losers pre-market even as AI hardware rallies; STOP $102.25.\nLUNR (785sh total @ $13.31) — no earnings or news today; space/lunar thesis holds; HOLD.\nJOBY (2380sh total @ $7.37) — no material news; eVTOL thesis intact; HOLD.\nIBM (95sh @ $216.28) — pre-mkt $237.79, -0.26%; quiet session, well above cost basis; HOLD.\nFCEL (300sh @ $21.49) — IV decreasing on FCEL per options flow; no catalyst; HOLD. BE (206sh @ $188.18) — Evercore cited \"AI reach is deeper than investors thought\" on Bloom Energy; mild positive; HOLD. NVTS (21sh @ $11.41) — quiet; HOLD. NUKZ (5sh @ $64.35) — small nuclear ETF, sector soft; HOLD.\nKey catalyst at open: NBIS Q2 2026 earnings released pre-market this morning — triple-digit growth expectations; reaction sets tone for AI infrastructure names all session. Also watch SMR for ATM offering volume impact.\n\n---\n\nNow assembling the exact required output blocks:\n\n---\n\nWATCH_ALERT:\nES +0.3% NQ +0.7% VIX 15.3 | NBIS T1 NEAR ~$211 earnings AM | SMR HOLD ATM $750M dilution | INTC HOLD stk-sale drag | NOW STOP $102.25\n\nFULL_BRIEF:\nMacro: ES +0.3%, NQ +0.7% after soft July CPI (+0.1% MoM); 10yr yield eased to 4.68%, VIX 15.3 — tech-led risk-on but futures trimmed gains post-print; Fed Sep hike odds remain split.\nPre-market standouts: CRWV +18% and SMCI +7.5% on blowout AI infrastructure earnings; NBIS +9% to ~$211 pre-mkt ahead of its own Q2 today; software names lagging even as AI hardware rallies.\nSMR (604sh @ $8.54) — ~$9.60 pre-mkt (+12.4% vs cost); ATM offering of up to $750M in common stock announced — dilution headline noted, long-term thesis intact; HOLD.\nUEC (515sh @ $9.91) — ~flat pre-mkt; holding better than SMR/OKLO peers YTD (~-2%); no fresh news; HOLD.\nNBIS (80sh @ $187.88) — ~$211 pre-mkt (+12.3%); Q2 2026 earnings due before open today, CRWV halo lifting; T1 NEAR — thesis hold, watch post-print reaction closely.\nINTC (174sh @ $91.67) — ~$90.30 pre-mkt (~-1.5%); expanded stock sale raised $5B to $20B total weighing on shares; below 2% gap threshold; HOLD.\nHIMS (240sh @ $30.24) — no news pre-mkt; slight positive market tone; HOLD.\nSKHY (145sh @ $143.02) — quiet, no catalyst; HOLD.\nOKLO (370sh @ $41.81) — down ~35% YTD broadly; no thesis-breaking news today; AI power demand narrative long-term intact; HOLD.\nNOW (200sh @ $105.56) — range trade; software names lagging AI hardware in pre-mkt; STOP $102.25.\nLUNR (785sh @ $13.31) — no earnings or major news today; space thesis holds; HOLD.\nJOBY (2380sh @ $7.37) — quiet; eVTOL thesis intact; no news; HOLD.\nIBM (95sh @ $216.28) — pre-mkt $237.79 (-0.26%); well above cost; quiet session; HOLD.\nFCEL (300sh @ $21.49) — options IV declining, no catalyst; HOLD. BE (206sh @ $188.18) — Evercore noted AI reach positive for Bloom; HOLD. NVTS (21sh @ $11.41) — quiet; HOLD. NUKZ (5sh @ $64.35) — nuclear ETF soft with sector; HOLD.\nKey catalyst at open: NBIS Q2 2026 earnings released pre-market — watch revenue growth and guidance for AI infrastructure read-through; also monitor SMR for ATM offering volume/price pressure at open.",
     "marketDirection":  {
-                            "es":  "+0.1%"
+                            "vix":  "15.3",
+                            "nq":  "+0.7%",
+                            "es":  "+0.3%"
                         },
-    "generatedAt":  "2026-08-11T13:16:16Z",
-    "asOfLabel":  "2026-08-11, 9:15 AM ET",
-    "watchAlert":  "ES +0.1% flat open | HIMS GAP WATCH EPS miss | INTC GAP WATCH $20B secondary | NBIS HOLD earns tmrw | NOW STOP $102.25",
+    "generatedAt":  "2026-08-12T13:16:26Z",
+    "asOfLabel":  "2026-08-12, 9:15 AM ET",
+    "watchAlert":  "ES +0.3% NQ +0.7% VIX 15.3 10yr 4.68% | NBIS T1 NEAR $211 (earnings AM) | SMR HOLD (ATM dilution $750M) | INTC HOLD (stock sale) | NOW STOP $102.25",
     "longWatch":  [
                       {
                           "symbol":  "OKLO",
@@ -79,124 +81,204 @@
                   ],
     "positions":  [
                       {
+                          "note":  "",
+                          "stopPrice":  null,
+                          "price":  null,
                           "symbol":  "SMR",
-                          "price":  8.50,
-                          "changePct":  -0.5,
-                          "status":  "HOLD",
-                          "stopPrice":  null,
-                          "note":  "Nuclear sector rotation pressure; Truist Hold; Q2 rev -98.8% YoY; thesis intact"
+                          "changePct":  12.4,
+                          "status":  "HOLD"
                       },
                       {
+                          "note":  "",
+                          "stopPrice":  null,
+                          "price":  null,
                           "symbol":  "UEC",
-                          "price":  9.85,
-                          "changePct":  -0.6,
-                          "status":  "HOLD",
-                          "stopPrice":  null,
-                          "note":  "Uranium demand thesis intact despite sector chop"
+                          "changePct":  null,
+                          "status":  "HOLD"
                       },
                       {
+                          "note":  "",
+                          "stopPrice":  null,
+                          "price":  null,
                           "symbol":  "NBIS",
-                          "price":  185.00,
-                          "changePct":  -1.0,
-                          "status":  "HOLD",
-                          "stopPrice":  null,
-                          "note":  "Earnings tomorrow pre-market; options pricing 15% move; do not trade into print"
+                          "changePct":  12.3,
+                          "status":  "T1 NEAR"
                       },
                       {
+                          "note":  "",
+                          "stopPrice":  null,
+                          "price":  null,
                           "symbol":  "INTC",
-                          "price":  93.50,
-                          "changePct":  2.0,
-                          "status":  "GAP WATCH",
-                          "stopPrice":  null,
-                          "note":  "$20B common stock secondary upsized and priced at $95; massive dilution event"
+                          "changePct":  -1.5,
+                          "status":  "HOLD"
                       },
                       {
+                          "note":  "",
+                          "stopPrice":  null,
+                          "price":  null,
                           "symbol":  "HIMS",
-                          "price":  27.50,
-                          "changePct":  -9.0,
-                          "status":  "GAP WATCH",
-                          "stopPrice":  null,
-                          "note":  "Q2 EPS ($0.37) vs est ($0.01) miss; revenue beat $753M; raised FY guide; EPS shock driving selloff"
+                          "changePct":  null,
+                          "status":  "HOLD"
                       },
                       {
+                          "note":  "",
+                          "stopPrice":  null,
+                          "price":  null,
                           "symbol":  "SKHY",
-                          "price":  140.00,
-                          "changePct":  -2.1,
-                          "status":  "HOLD",
-                          "stopPrice":  null,
-                          "note":  "Chipmaker sector pressure from Kospi selloff; Q2 76% operating margin positive"
+                          "changePct":  null,
+                          "status":  "HOLD"
                       },
                       {
+                          "note":  "",
+                          "stopPrice":  null,
+                          "price":  null,
                           "symbol":  "OKLO",
-                          "price":  41.00,
-                          "changePct":  -0.5,
-                          "status":  "HOLD",
-                          "stopPrice":  null,
-                          "note":  "Analyst PT cuts from Canaccord and Citi; Q2 loss wider than expected; pre-revenue thesis intact"
+                          "changePct":  null,
+                          "status":  "HOLD"
                       },
                       {
-                          "symbol":  "NOW",
-                          "price":  105.00,
-                          "changePct":  -0.5,
-                          "status":  "STOP",
+                          "note":  "",
                           "stopPrice":  102.25,
-                          "note":  "Range trade; 3% ATR stop applied; no specific news"
+                          "price":  null,
+                          "symbol":  "NOW",
+                          "changePct":  null,
+                          "status":  "STOP"
                       },
                       {
+                          "note":  "",
+                          "stopPrice":  null,
+                          "price":  null,
                           "symbol":  "LUNR",
-                          "price":  13.20,
-                          "changePct":  -0.8,
-                          "status":  "HOLD",
-                          "stopPrice":  null,
-                          "note":  "No news today; thesis intact"
+                          "changePct":  null,
+                          "status":  "HOLD"
                       },
                       {
+                          "note":  "",
+                          "stopPrice":  null,
+                          "price":  null,
                           "symbol":  "JOBY",
-                          "price":  7.30,
-                          "changePct":  -0.9,
-                          "status":  "HOLD",
-                          "stopPrice":  null,
-                          "note":  "No news today; eVTOL thesis intact"
+                          "changePct":  null,
+                          "status":  "HOLD"
                       },
                       {
+                          "note":  "",
+                          "stopPrice":  null,
+                          "price":  null,
                           "symbol":  "IBM",
-                          "price":  217.00,
-                          "changePct":  0.3,
-                          "status":  "HOLD",
-                          "stopPrice":  null,
-                          "note":  "Returned to Canada bond market; no material equity catalyst today"
+                          "changePct":  -0.26,
+                          "status":  "HOLD"
                       },
                       {
+                          "note":  "",
+                          "stopPrice":  null,
+                          "price":  null,
                           "symbol":  "FCEL",
-                          "price":  21.00,
-                          "changePct":  -0.5,
-                          "status":  "HOLD",
-                          "stopPrice":  null,
-                          "note":  "No news; fuel cell sector quiet"
+                          "changePct":  null,
+                          "status":  "HOLD"
                       },
                       {
-                          "symbol":  "BE",
-                          "price":  187.00,
-                          "changePct":  -0.6,
-                          "status":  "HOLD",
+                          "note":  "",
                           "stopPrice":  null,
-                          "note":  "Unusual options volume flagged on IV report; no specific catalyst identified"
+                          "price":  null,
+                          "symbol":  "ES",
+                          "changePct":  0.3,
+                          "status":  "T1 NEAR"
                       },
                       {
-                          "symbol":  "NVTS",
-                          "price":  11.30,
-                          "changePct":  -1.0,
-                          "status":  "HOLD",
+                          "note":  "",
                           "stopPrice":  null,
-                          "note":  "No news today"
+                          "price":  null,
+                          "symbol":  "SMR",
+                          "changePct":  12.4,
+                          "status":  "HOLD"
                       },
                       {
-                          "symbol":  "NUKZ",
-                          "price":  64.00,
-                          "changePct":  -0.5,
-                          "status":  "HOLD",
+                          "note":  "",
                           "stopPrice":  null,
-                          "note":  "Nuclear ETF; tracks sector headwinds"
+                          "price":  null,
+                          "symbol":  "UEC",
+                          "changePct":  -2,
+                          "status":  "HOLD"
+                      },
+                      {
+                          "note":  "",
+                          "stopPrice":  null,
+                          "price":  null,
+                          "symbol":  "NBIS",
+                          "changePct":  12.3,
+                          "status":  "T1 NEAR"
+                      },
+                      {
+                          "note":  "",
+                          "stopPrice":  null,
+                          "price":  null,
+                          "symbol":  "INTC",
+                          "changePct":  -1.5,
+                          "status":  "HOLD"
+                      },
+                      {
+                          "note":  "",
+                          "stopPrice":  null,
+                          "price":  null,
+                          "symbol":  "HIMS",
+                          "changePct":  null,
+                          "status":  "HOLD"
+                      },
+                      {
+                          "note":  "",
+                          "stopPrice":  null,
+                          "price":  null,
+                          "symbol":  "SKHY",
+                          "changePct":  null,
+                          "status":  "HOLD"
+                      },
+                      {
+                          "note":  "",
+                          "stopPrice":  null,
+                          "price":  null,
+                          "symbol":  "OKLO",
+                          "changePct":  null,
+                          "status":  "HOLD"
+                      },
+                      {
+                          "note":  "",
+                          "stopPrice":  102.25,
+                          "price":  null,
+                          "symbol":  "NOW",
+                          "changePct":  null,
+                          "status":  "STOP"
+                      },
+                      {
+                          "note":  "",
+                          "stopPrice":  null,
+                          "price":  null,
+                          "symbol":  "LUNR",
+                          "changePct":  null,
+                          "status":  "HOLD"
+                      },
+                      {
+                          "note":  "",
+                          "stopPrice":  null,
+                          "price":  null,
+                          "symbol":  "JOBY",
+                          "changePct":  null,
+                          "status":  "HOLD"
+                      },
+                      {
+                          "note":  "",
+                          "stopPrice":  null,
+                          "price":  null,
+                          "symbol":  "IBM",
+                          "changePct":  -0.26,
+                          "status":  "HOLD"
+                      },
+                      {
+                          "note":  "",
+                          "stopPrice":  null,
+                          "price":  null,
+                          "symbol":  "FCEL",
+                          "changePct":  null,
+                          "status":  "HOLD"
                       }
                   ]
 }
