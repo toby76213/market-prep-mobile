@@ -1,5 +1,5 @@
 ﻿{
-    "catalyst":  "Monday open: watch JOBY $750M dilution overhang and any weekend nuclear/energy policy news; no Saturday catalysts",
+    "catalyst":  "No earnings or data today (Sunday); Monday open watch for AI-infra momentum from NBIS/INTC/SKHY premarket surge; FRED 10yr release Aug 17; Fed minutes Tuesday",
     "rangeWatch":  [
                        {
                            "symbol":  "CRDO",
@@ -34,15 +34,16 @@
                            "notes":  "Added manually."
                        }
                    ],
-    "standouts":  "No Saturday pre-market session; last big movers SMCI +18% CRWV +24% Wed on AI earnings; semis up 10%+ in August; nuclear cluster under valuation pressure",
-    "macro":  "ES flat; S\u0026P 500 closed at record 7798.99 Thursday; 10yr yield ~4.65% on soft CPI/PPI; Fed Sep hike odds ~35%; Hormuz conflict oil wildcard",
-    "fullBrief":  "Macro: ES subdued/flat into Saturday non-trading session; S\u0026P 500 closed at record 7,798.99 Thursday; 10yr yield ~4.65% declining on soft July CPI and PPI; Fed Sep hike odds fell to ~35%; Strait of Hormuz conflict an ongoing oil/inflation wildcard.\nPre-market standouts: No live Saturday pre-market session exists; last meaningful movers were SMCI +18% and CRWV +24% Wednesday on AI data-center earnings beats; semiconductor stocks up 10%+ in August. Nuclear/SMR cluster softer on valuation scrutiny.\nSMR ~$10.03 (Friday close, +17.6% vs cost $8.54): HOLD — Paragon contract signed, Curio/Framatome fuel MOU; thesis intact but $750M ATM dilution and Q2 revenue collapse ($75K) are known headwinds; RBC cut PT to $10.\nOKLO ~$41+ est (vs cost $41.81): HOLD — Achieved SMR criticality milestone in Texas Aug 6; first $1.2M revenue posted Q2; execution risk rising, Zacks Sell, but thesis of first-mover SMR developer unbroken.\nUEC ~$9.90 est (vs cost $9.91): HOLD — Uranium names off only ~2% YTD per reports; thesis holds; no breaking news.\nNBIS ~$190 est (vs cost $187.88): HOLD — AI infrastructure buildout thesis supported by hyperscaler spending signals; no specific news found.\nINTC ~$91+ est (vs cost $91.67): HOLD — Intel share sale flagged in market commentary; thesis hold classification applies; monitor any dilution event closely.\nHIMS ~$30 est (vs cost $30.24): HOLD — No specific news; telehealth thesis intact.\nSKHY ~$143 est (vs cost $143.02): HOLD — No news found; thin liquidity name, watch spread at open.\nNOW ~$105 est (vs cost $105.56): STOP $101.75 — Range trade; stop = prior close ~$104.90 x 0.97 = $101.75 (rounded to nearest .25).\nLUNR ~$13.30 est (vs cost $13.31): HOLD — Thesis hold; no breaking news.\nJOBY ~$7.37 est (vs cost $7.37): GAP WATCH — $750M equity dilution plan flagged in Aug 13 news; watch for pre-market gap on Monday open.\nIBM ~$216 est (vs cost $216.28): HOLD — Thesis hold; no specific news today.\nFCEL ~$21 est (vs cost $21.49): HOLD — Fuel cell sector quiet; no news.\nBE ~$188 est (vs cost $188.18): HOLD — Bloom Energy thesis intact; no news.\nNVTS ~$11.40 est (vs cost $11.41): HOLD — Thesis hold; small position; no news.\nNUKZ ~$64 est (vs cost $64.35): HOLD — Nuclear ETF; sector broadly under valuation pressure but long-term thesis intact.\nCatalyst to watch at Monday open: JOBY dilution overhang ($750M equity plan) and any weekend nuclear/energy policy headlines; no major scheduled earnings or data releases Saturday; retail sales data and Fed speakers next week.",
+    "standouts":  "NBIS +6.5% Nvidia 9.3% stake; SKHY +6.2% AI HBM demand; INTC +5.9% semis rebound; LUNR +4.3% prior session; SMR +2.9% Paragon safety contract",
+    "macro":  "ES futs +0.3%, NQ +0.2% Sunday carry; VIX 14.25 benign; 10yr yield 4.68-4.70% near 19-month high; UMich 51 miss and weak July retail sales weigh on backdrop",
+    "fullBrief":  "Macro: ES futs +0.3%, NQ +0.2% Sunday carry; VIX 14.25 (benign, -2.6% Fri); 10yr yield 4.68-4.70%, near 19-month high; UMich sentiment missed (51 vs 55) and July retail sales weakest in over a year weigh on backdrop.\nPre-market standouts: NBIS +6.5% on Nvidia 9.3% stake disclosure; SKHY +6.2% on AI HBM demand; INTC +5.9% semiconductor rebound; LUNR +4.3% prior session; SMR +2.9% on Paragon safety contract award.\nSMR ~$9.85 pm, +15.3% vs cost $8.54 — HOLD; NuScale awarded Paragon contract for Highly Integrated Protection System final design work, thesis intact.\nOKLO ~$26 est pm, down ~38% vs cost $41.81 — HOLD; nuclear sector under valuation pressure but no thesis-breaking news today; Meta 1.2GW agreement still active.\nUEC ~$10.20 est pm, +2.9% vs cost $9.91 — HOLD; uranium thesis intact, no material news today.\nNBIS ~$200 est pm, +6.5% vs cost $187.88 — HOLD; Nvidia stake disclosure is strong thesis confirmation, positive catalyst.\nINTC ~$97 est pm, +5.9% vs cost $91.67 — HOLD; sector-wide semiconductor rebound, no thesis-breaking news.\nSKHY ~$151.90 est pm, +6.2% vs cost $143.02 — HOLD; AI HBM demand narrative strong, no range-trade stop applies.\nJOBY $7.93 pm, +7.6% vs cost $7.37 — HOLD; Q2 beat, raised 2026 revenue outlook, eIPP Texas flights progressing.\nLUNR ~$17.56 last close, +31.9% vs cost $13.31 — HOLD; no fresh negative news, space infrastructure thesis intact.\nNOW ~$105.56 est pm, flat vs cost — STOP $102.25; range trade, 3%-ATR stop applies, no catalyst to override.\nIBM, HIMS, FCEL, BE, NVTS, NUKZ — HOLD; no material news on these names today, all unclassified; monitor IBM near $216 for any week-open drift.\nCatalyst to watch at open: No major earnings or data releases today (Sunday); Monday open watch — Fed minutes Tuesday, FRED 10yr data release Aug 17; semiconductor momentum from NBIS/INTC/SKHY premarket surge likely to set AI-infrastructure tone at open.",
     "marketDirection":  {
-                            "vix":  "15"
+                            "es":  "+0.3%",
+                            "vix":  "14.25"
                         },
-    "generatedAt":  "2026-08-15T13:15:55Z",
-    "asOfLabel":  "2026-08-15, 9:15 AM ET",
-    "watchAlert":  "ES flat-to-up (S\u0026P 500 at ATH 7799); VIX ~15 est | OKLO HOLD (criticality milestone) | SMR HOLD (Paragon contract) | NOW STOP $101.75 | JOBY GAP WATCH (dilut...",
+    "generatedAt":  "2026-08-16T13:16:12Z",
+    "asOfLabel":  "2026-08-16, 9:15 AM ET",
+    "watchAlert":  "ES +0.3% VIX 14.25 benign | NBIS HOLD thesis+NVDA 9.3% stake | SKHY +6% PM AI semis surge | SMR HOLD safety deal | NOW STOP $102.25",
     "longWatch":  [
                       {
                           "symbol":  "OKLO",
@@ -80,123 +81,123 @@
     "positions":  [
                       {
                           "symbol":  "SMR",
-                          "price":  10.03,
-                          "changePct":  17.6,
+                          "price":  9.85,
+                          "changePct":  15.3,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "Paragon contract + Curio MOU positive; $750M ATM dilution and near-zero Q2 revenue are headwinds; RBC PT $10"
+                          "note":  "NuScale awarded Paragon final design contract for protection system; thesis intact"
                       },
                       {
                           "symbol":  "UEC",
-                          "price":  9.90,
-                          "changePct":  -0.1,
+                          "price":  10.20,
+                          "changePct":  2.9,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "Uranium names off ~2% YTD; thesis intact; no breaking news"
+                          "note":  "Uranium thesis intact, no material news today"
                       },
                       {
                           "symbol":  "NBIS",
-                          "price":  190.00,
-                          "changePct":  1.1,
+                          "price":  200.00,
+                          "changePct":  6.5,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "AI infra thesis supported by hyperscaler spend signals; no specific news"
+                          "note":  "Nvidia disclosed 9.3% stake, strong thesis confirmation"
                       },
                       {
                           "symbol":  "INTC",
-                          "price":  91.50,
-                          "changePct":  -0.2,
+                          "price":  97.00,
+                          "changePct":  5.9,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "Intel share sale flagged in market commentary; thesis hold applies; monitor dilution"
+                          "note":  "Sectorwide semiconductor rebound, thesis intact"
                       },
                       {
                           "symbol":  "HIMS",
-                          "price":  30.10,
-                          "changePct":  -0.5,
-                          "status":  "HOLD",
-                          "stopPrice":  null,
-                          "note":  "No specific news; telehealth thesis intact"
-                      },
-                      {
-                          "symbol":  "SKHY",
-                          "price":  143.00,
+                          "price":  30.24,
                           "changePct":  0.0,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "No news; thin liquidity name, watch spread at open"
+                          "note":  "No material news today"
+                      },
+                      {
+                          "symbol":  "SKHY",
+                          "price":  151.90,
+                          "changePct":  6.2,
+                          "status":  "HOLD",
+                          "stopPrice":  null,
+                          "note":  "AI HBM demand narrative driving premarket surge"
                       },
                       {
                           "symbol":  "OKLO",
-                          "price":  41.50,
-                          "changePct":  -0.7,
+                          "price":  26.00,
+                          "changePct":  -37.8,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "Achieved SMR criticality in Texas Aug 6; first $1.2M revenue Q2; execution risk rising but thesis unbroken"
+                          "note":  "Nuclear valuation pressure sector-wide; Meta 1.2GW deal intact, no thesis break"
                       },
                       {
                           "symbol":  "NOW",
-                          "price":  104.90,
-                          "changePct":  -0.6,
+                          "price":  105.56,
+                          "changePct":  0.0,
                           "status":  "STOP",
-                          "stopPrice":  101.75,
-                          "note":  "Range trade; stop = prior close $104.90 x 0.97 rounded to nearest .25"
+                          "stopPrice":  102.25,
+                          "note":  "Range trade; ATR stop 3% below prior close"
                       },
                       {
                           "symbol":  "LUNR",
-                          "price":  13.30,
-                          "changePct":  -0.1,
+                          "price":  17.56,
+                          "changePct":  31.9,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "Thesis hold; no breaking news"
+                          "note":  "Space infrastructure thesis intact, no negative news"
                       },
                       {
                           "symbol":  "JOBY",
-                          "price":  7.35,
-                          "changePct":  -0.3,
-                          "status":  "GAP WATCH",
+                          "price":  7.93,
+                          "changePct":  7.6,
+                          "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "$750M equity dilution plan flagged Aug 13; watch Monday open for gap"
+                          "note":  "Q2 beat, raised 2026 revenue outlook, eIPP Texas flights active"
                       },
                       {
                           "symbol":  "IBM",
-                          "price":  216.00,
-                          "changePct":  -0.1,
+                          "price":  216.28,
+                          "changePct":  0.0,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "Thesis hold; no specific news today"
+                          "note":  "No material news today"
                       },
                       {
                           "symbol":  "FCEL",
-                          "price":  21.00,
-                          "changePct":  -2.3,
+                          "price":  21.49,
+                          "changePct":  0.0,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "Fuel cell sector quiet; no news"
+                          "note":  "No material news today"
                       },
                       {
                           "symbol":  "BE",
-                          "price":  188.00,
-                          "changePct":  -0.1,
+                          "price":  188.18,
+                          "changePct":  0.0,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "Bloom Energy thesis intact; no news"
+                          "note":  "No material news today"
                       },
                       {
                           "symbol":  "NVTS",
-                          "price":  11.40,
-                          "changePct":  -0.1,
+                          "price":  11.41,
+                          "changePct":  0.0,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "Thesis hold; small position; no news"
+                          "note":  "No material news today"
                       },
                       {
                           "symbol":  "NUKZ",
-                          "price":  64.00,
-                          "changePct":  -0.5,
+                          "price":  64.35,
+                          "changePct":  0.0,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "Nuclear ETF; sector under valuation pressure but long-term thesis intact"
+                          "note":  "No material news today"
                       }
                   ]
 }
