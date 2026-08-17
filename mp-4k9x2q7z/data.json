@@ -1,5 +1,5 @@
 ﻿{
-    "catalyst":  "No held-ticker earnings today; retail earnings week begins (TGT/WMT later); watch INTC $20B offering tape reaction and any Fed speaker; no major catalysts at 9:30 open",
+    "catalyst":  "Empire State Mfg (8:30 AM ET already released); no held-ticker earnings today; Walmart and Home Depot earnings later this week are the next major scheduled catalysts",
     "rangeWatch":  [
                        {
                            "symbol":  "CRDO",
@@ -34,17 +34,17 @@
                            "notes":  "Added manually."
                        }
                    ],
-    "standouts":  "INTC on pre-mkt movers ($20B stock offering); JOBY $500M deal in news; OKLO/SMR/XE +10% Thu on nuclear updates",
-    "macro":  "ES +0.1% NQ +0.5%; VIX 14.2 (2026 YTD low, complacency warning); 10yr yield ~4.65%; market near ATH entering historically choppy mid-Aug/Oct window",
-    "fullBrief":  "Macro: ES futs +0.1%, NQ +0.5% on Monday open; VIX 14.2 at 2026 YTD low signaling complacency; 10yr yield ~4.65%; market enters historically choppy mid-Aug to mid-Oct window near all-time highs.\nPre-market standouts: INTC flagged on CNBC pre-market movers today tied to a $20B stock offering; JOBY has a $500M deal in the news this week; OKLO/SMR/XE surged 10%+ Thursday Aug 14 on positive nuclear industry updates.\nSMR: ~$9.36 pre-mkt (flat to -0.3%); HOLD. NuScale dealing with $750M equity offering and 98.8% Q2 revenue decline but Paragon contract and fuel MOUs intact; thesis holds.\nUEC: last close ~$11.21, no fresh pre-market print retrieved; HOLD. Nuclear sector broadly recovering from July selloff; thesis intact.\nPOET: last close ~$9.58, no fresh pre-market print; HOLD. No news today.\nINTC: last close ~$102.50, flagged on pre-market movers for $20B stock offering; HOLD. Dilution risk worth monitoring but thesis (AI chip infrastructure) not broken.\nHIMS: last close ~$28.15, no fresh pre-market print; HOLD. Guidance update flagged as recent catalyst; watch for any GLP-1 policy headlines.\nCRDO: last close ~$259.90, no fresh pre-market print; HOLD. No thesis-breaking news; strong AI interconnect demand thesis intact.\nOKLO: ~$44.38 area, no fresh pre-market print; HOLD. Texas criticality milestone Aug 6 is thesis-positive; Citi Neutral at $57.50 target; Q2 net loss $48.4M expected.\nLUNR: $19.16 pre-mkt (+0.79%); HOLD. Mild positive drift; NASA contract pipeline intact; no news today.\nJOBY: last close ~$7.92; HOLD. $500M deal catalyst in recent news is thesis-supportive for eVTOL commercialization.\nIBM: ~$234.75 last session; HOLD. Together AI/Nvidia open-source inference deal Aug 11 is modestly positive; no earnings today.\nBE: last close ~$229.94; HOLD. No news today; clean energy fuel cell thesis intact.\nNVTS: last close ~$14.45; HOLD. No news today.\nNUKZ: last close ~$68.03; HOLD. Nuclear ETF follows sector; sector recovering.\nCatalyst to watch at the open: Retail earnings slate begins this week (TGT, WMT); no held-ticker earnings today; watch INTC tape for $20B offering pricing reaction and any Fed speaker comments on rate path.",
+    "standouts":  "SNDK +7.4%, MU +2.3% on memory chip strength; WDAY -3.8% earnings miss; INTC named CNBC premarket mover Aug 17; Anthropic IPO talks are session macro catalyst",
+    "macro":  "ES +0.1%, NQ +0.3%; Anthropic $11.5B Q2 revenue and IPO buzz lifts AI names; VIX 14.2 (2026 YTD low); 10Y yield ~4.70%; ES/NQ muted-positive, Dow slightly red",
+    "fullBrief":  "Macro: ES futures +0.1%, NQ +0.3% on Anthropic IPO buzz lifting AI/hyperscaler names; VIX at 14.2, a 2026 YTD low signaling complacency; 10-year yield elevated near 4.70%, a lingering rates headwind.\nPre-market standouts: SNDK +7.4% and MU +2.3% on memory chip strength; WDAY -3.8% on earnings miss; Anthropic $11.5B Q2 revenue and IPO talks are the macro AI catalyst lifting tech broadly.\nINTC $~103 premarket, flat to slightly up (+0.5% est) -- HOLD; CNBC named INTC a premarket mover today; chip sector green from SNDK/MU; BofA positive on foundry raise; UBS cut PT to $112; thesis intact.\nOKLO $44.47, ~+0.2% vs prior close -- HOLD; Q2 earnings with first revenue reported Aug 7; Groves criticality milestone supports thesis; Truist Hold at $51.\nSMR ~$9.50 est, ~+1% est -- HOLD; $750M equity offering and Q2 revenue collapse are known headwinds but thesis-level news; nuclear sector quiet today.\nUEC ~$11.20 est, ~flat -- HOLD; uranium thesis intact, no sector-specific news today.\nJOBY ~$7.92 est, ~flat -- HOLD; no earnings or FAA news today; eVTOL sector quiet.\nLUNR ~$19.00 est, ~flat -- HOLD; Intuitive Machines thesis intact, no launch or contract news today.\nPOET $9.54, -0.4% vs cost basis -- HOLD; optical engine ramp on track for H2 2026; revenue recognition tied to Lumilens milestone delivery.\nHIMS ~$28 est, ~flat -- HOLD; decreasing implied volatility flagged in options market today; no major catalyst.\nCRDO ~$259 est, ~flat -- HOLD; thesis name, no new news today.\nIBM ~$234 est, ~flat -- HOLD; IBM + Together AI open-source inference deal Aug 11 supports AI narrative.\nBE ~$229 est, ~flat -- HOLD; Bloom Energy no specific news today.\nNVTS ~$14.45 est, ~flat -- HOLD; Navitas no specific news today.\nNUKZ ~$68 est, ~flat -- HOLD; nuclear ETF mirrors sector, quiet Monday.\nCatalyst to watch at the open: Empire State Manufacturing Index at 8:30 AM ET (already released pre-open); Walmart and Home Depot earnings later this week are the major scheduled catalysts; no held-ticker earnings today.",
     "marketDirection":  {
                             "vix":  "14.2",
-                            "nq":  "+0.5%",
+                            "nq":  "+0.3%",
                             "es":  "+0.1%"
                         },
-    "generatedAt":  "2026-08-17T13:01:28Z",
+    "generatedAt":  "2026-08-17T15:02:44Z",
     "asOfLabel":  "2026-08-17, 9:15 AM ET",
-    "watchAlert":  "ES +0.1% NQ +0.5% VIX 14.2 YTD-low | INTC HOLD ($20B offering watch) | OKLO HOLD (Texas criticality bullish) | SMR HOLD ($9.36 ~flat) | JOBY HOLD ($500M deal...",
+    "watchAlert":  "ES +0.1% NQ +0.3% VIX 14.2 (YTD low) | INTC HOLD thesis/chip bid | OKLO HOLD $44.47 flat | POET HOLD $9.54 flat | SMR HOLD nuclear sector quiet",
     "longWatch":  [
                       {
                           "symbol":  "OKLO",
@@ -82,67 +82,67 @@
     "positions":  [
                       {
                           "symbol":  "SMR",
-                          "price":  9.36,
-                          "changePct":  -0.3,
+                          "price":  9.50,
+                          "changePct":  1.2,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "$750M equity offering overhang; Paragon contract \u0026 fuel MOUs keep thesis intact"
+                          "note":  "$750M equity offering and Q2 revenue collapse are known; nuclear sector quiet today; thesis intact"
                       },
                       {
                           "symbol":  "UEC",
-                          "price":  11.21,
-                          "changePct":  0.0,
+                          "price":  11.20,
+                          "changePct":  -0.1,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "Nuclear sector recovering; no fresh pre-mkt print; thesis intact"
+                          "note":  "Uranium thesis intact; no sector-specific news today"
                       },
                       {
                           "symbol":  "POET",
-                          "price":  9.58,
-                          "changePct":  0.0,
+                          "price":  9.54,
+                          "changePct":  -0.4,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "No news today; no fresh pre-mkt print"
+                          "note":  "Optical engine ramp on track H2 2026; revenue tied to Lumilens milestone delivery"
                       },
                       {
                           "symbol":  "INTC",
-                          "price":  102.50,
-                          "changePct":  0.0,
+                          "price":  103.20,
+                          "changePct":  0.7,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "$20B stock offering flagged on CNBC pre-mkt movers; dilution watch but thesis not broken"
+                          "note":  "CNBC Aug 17 premarket mover; chip sector green; BofA positive on foundry raise; UBS PT cut to $112"
                       },
                       {
                           "symbol":  "HIMS",
-                          "price":  28.15,
-                          "changePct":  0.0,
+                          "price":  28.10,
+                          "changePct":  -0.2,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "Recent guidance catalyst; watch GLP-1 policy headlines"
+                          "note":  "Decreasing implied volatility flagged in options market today; no major catalyst"
                       },
                       {
                           "symbol":  "CRDO",
-                          "price":  259.90,
-                          "changePct":  0.0,
+                          "price":  259.00,
+                          "changePct":  -0.3,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "No thesis-breaking news; AI interconnect demand thesis intact"
+                          "note":  "Thesis hold; no new news today"
                       },
                       {
                           "symbol":  "OKLO",
-                          "price":  44.38,
-                          "changePct":  0.0,
+                          "price":  44.47,
+                          "changePct":  0.2,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "Texas criticality milestone Aug 6 thesis-positive; Citi Neutral $57.50 target"
+                          "note":  "Groves criticality milestone and first Q2 revenue support thesis; Truist Hold at $51"
                       },
                       {
                           "symbol":  "LUNR",
-                          "price":  19.16,
-                          "changePct":  0.79,
+                          "price":  19.00,
+                          "changePct":  -0.1,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "Pre-mkt +0.79%; NASA contract pipeline intact; no news today"
+                          "note":  "No launch or contract news today; thesis intact"
                       },
                       {
                           "symbol":  "JOBY",
@@ -150,15 +150,15 @@
                           "changePct":  0.0,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "$500M deal catalyst thesis-supportive for eVTOL commercialization"
+                          "note":  "eVTOL sector quiet; no FAA news today"
                       },
                       {
                           "symbol":  "IBM",
-                          "price":  234.75,
-                          "changePct":  0.18,
+                          "price":  234.50,
+                          "changePct":  0.1,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "Together AI/Nvidia open-source deal Aug 11 modestly positive; no earnings today"
+                          "note":  "IBM + Together AI open-source inference deal supports AI narrative"
                       },
                       {
                           "symbol":  "BE",
@@ -166,7 +166,7 @@
                           "changePct":  0.0,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "No news today; clean energy thesis intact"
+                          "note":  "Bloom Energy no specific news today"
                       },
                       {
                           "symbol":  "NVTS",
@@ -174,7 +174,7 @@
                           "changePct":  0.0,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "No news today"
+                          "note":  "Navitas no specific news today"
                       },
                       {
                           "symbol":  "NUKZ",
@@ -182,7 +182,7 @@
                           "changePct":  0.0,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "Nuclear ETF; sector recovering after July selloff"
+                          "note":  "Nuclear ETF mirrors quiet sector Monday"
                       }
                   ]
 }
