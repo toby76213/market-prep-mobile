@@ -1,5 +1,5 @@
 ﻿{
-    "catalyst":  "Intel $20B stock offering details and Hims \u0026 Hers guidance update at open are primary position-level catalysts; Home Depot consumer read sets broader tape tone.",
+    "catalyst":  "Fed July FOMC minutes release (mid-afternoon); Wolfspeed earnings today as semis sector read-through; no held-position earnings today",
     "rangeWatch":  [
                        {
                            "symbol":  "CRDO",
@@ -34,17 +34,16 @@
                            "notes":  "Added manually."
                        }
                    ],
-    "standouts":  "Home Depot +1.5% on Q2 beat; Tesla -1.2% on Cybercab report; Fabrinet -9% margin warning; none in book. Intel $20B offering and HIMS guidance update are in-book events.",
-    "macro":  "ES futures -0.5%, NQ futures -1.3%, VIX 15.19 (+6.6% Mon), 10yr yield 4.726%; US-Iran tensions spike oil to Brent $91/WTI $84, dragging futures lower.",
-    "fullBrief":  "ES futures -0.5%, NQ futures -1.3%, VIX 15.19 (jumped 6.6% Mon), 10yr yield 4.726%; Iran tensions and surging oil (Brent $91, WTI $84) are the macro drag today.\nHome Depot beats Q2 top and bottom lines pre-market +1.5%; Tesla -1.2% on Cybercab report; Fabrinet -9% on margin seasonality warning; no held names among top movers.\nSMR ~$9.36 pre-mkt (-0.7%): HOLD. B. Riley cut PT to $15 from $19 yesterday; thesis intact, nuclear sentiment soggy but no thesis break.\nUEC ~$10.90 pre-mkt (-2.4%): HOLD. Nuclear sector drag from Iran/oil macro; uranium thesis intact, watch $10.75 support.\nINTC ~$101.20 pre-mkt (-2.2%): GAP WATCH. Seeking Alpha flags Intel announced a $20B stock offering this week; dilution risk, monitor at open.\nHIMS ~$27.90 pre-mkt (-2.5%): GAP WATCH. Seeking Alpha flags HIMS guidance update event today; confirm guidance direction at open.\nOKLO ~$43.10 pre-mkt (-1.8%): HOLD. Earnings reported Aug 7; no new thesis-breaking news; sector weak on oil/Iran.\nLUNR ~$19.85 pre-mkt (-2.6%): GAP WATCH. No company-specific news; NQ-beta name dragged by tech futures sell-off.\nJOBY ~$7.75 pre-mkt (-2.0%): HOLD. Seeking Alpha flags Joby $500M deal confirmed; positive thesis catalyst, gap down is macro-driven not thesis-breaking.\nIBM ~$227.50 pre-mkt (-0.6%): HOLD. No specific news; broad market drag, thesis intact.\nBE ~$228.00 pre-mkt (-1.8%): HOLD. No specific news; energy/clean power names soft on oil narrative.\nNVTS ~$14.25 pre-mkt (-2.3%): HOLD. No news; small-cap semi dragged by NQ futures.\nNUKZ ~$66.50 pre-mkt (-1.9%): HOLD. Nuclear ETF tracking sector weakness; no individual catalyst.\nWatch at open: Home Depot earnings reaction sets consumer tone; Intel $20B offering details and HIMS guidance update are the two position-level catalysts to monitor immediately at 9:30.\n\n---",
+    "standouts":  "Chip/semi sector broadly lower; RDAC +213% micro-cap squeeze; SK Hynix 40T won buyback positive for SKHY; Keysight +2.6% on earnings; no held names in headline movers",
+    "macro":  "ES flat, NQ -0.1%, VIX 15.76 easing; 10yr yield 4.70% off 19yr high; chip selloff on bond surge + Middle East risk; Fed July minutes due today",
+    "fullBrief":  "Macro: ES futures flat, NQ futures -0.1%, VIX 15.76 easing; 10yr yield at 4.70% retreating from recent 19-year highs; chip sector under pressure from rising bond yields and Middle East tension; Fed July minutes due today.\nPre-market standouts: Broad chip/semiconductor selloff continues; Nvidia, Meta, Tesla off; micro-cap RDAC +213% on speculative squeeze; SK Hynix buyback announced; Keysight +2.6% on earnings beat; no held positions among the headline movers.\nSMR: $8.35 premarket, -3.6% from $8.66 close -- GAP WATCH; Q2 revenue miss ($75K) and $750M ATM dilution already absorbed but weighing; thesis intact, HOLD.\nUEC: no premarket quote retrieved; uranium thesis holds; no news today; HOLD.\nSKHY: SK Hynix announced a buyback of up to 40 trillion won; positive near-term catalyst; no explicit ADR premarket price confirmed; HOLD.\nINTC: chip sector broadly lower premarket on bond yield surge and Middle East risk; thesis hold, no company-specific news today; HOLD.\nHIMS: no premarket price or news found; HOLD.\nOKLO: Groves reactor achieved first criticality Aug. 6 -- thesis strongly intact; no new news today; HOLD.\nLUNR: no premarket price or news retrieved; thesis hold; HOLD.\nJOBY: no premarket price or news retrieved; thesis hold; HOLD.\nIBM: no premarket price or news retrieved; HOLD.\nBE: no premarket price or news retrieved; not in classified lists; HOLD.\nNVTS: no premarket price or news retrieved; HOLD.\nNUKZ: nuclear ETF; no specific news today; HOLD.\nCatalyst to watch at open: Fed July FOMC meeting minutes release (expected mid-afternoon); Wolfspeed earnings today as semiconductor sector sentiment read-through; no held-position earnings today.",
     "marketDirection":  {
-                            "vix":  "15",
-                            "nq":  "-1.3%",
-                            "es":  "-0.5%"
+                            "nq":  "-0.1%",
+                            "vix":  "15.8"
                         },
-    "generatedAt":  "2026-08-18T13:01:28Z",
-    "asOfLabel":  "2026-08-18, 9:15 AM ET",
-    "watchAlert":  "ES -0.5% NQ -1.3% VIX 15 Iran/oil | INTC GAP WATCH $20B offering | SMR HOLD | OKLO HOLD | JOBY HOLD | HIMS GAP WATCH",
+    "generatedAt":  "2026-08-19T13:01:20Z",
+    "asOfLabel":  "2026-08-19, 9:15 AM ET",
+    "watchAlert":  "ES flat NQ -0.1% VIX 15.8 chip selloff | SMR GAP WATCH $8.35 -3.6% | OKLO HOLD criticality thesis intact | INTC HOLD chip pressure | LUNR HOLD no news",
     "longWatch":  [
                       {
                           "symbol":  "OKLO",
@@ -82,91 +81,99 @@
     "positions":  [
                       {
                           "symbol":  "SMR",
-                          "price":  9.36,
-                          "changePct":  -0.7,
-                          "status":  "HOLD",
+                          "price":  8.35,
+                          "changePct":  -3.6,
+                          "status":  "GAP WATCH",
                           "stopPrice":  null,
-                          "note":  "B. Riley PT cut to $15 from $19 yesterday; thesis intact, sector soft"
+                          "note":  "Q2 revenue $75K miss + $750M ATM dilution weighing; thesis intact, hold"
                       },
                       {
                           "symbol":  "UEC",
-                          "price":  10.90,
-                          "changePct":  -2.4,
+                          "price":  null,
+                          "changePct":  null,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "Nuclear sector drag; uranium thesis intact, watch $10.75 support"
+                          "note":  "No premarket price or news; uranium thesis intact"
+                      },
+                      {
+                          "symbol":  "SKHY",
+                          "price":  null,
+                          "changePct":  null,
+                          "status":  "HOLD",
+                          "stopPrice":  null,
+                          "note":  "SK Hynix announced 40T won buyback; positive near-term catalyst"
                       },
                       {
                           "symbol":  "INTC",
-                          "price":  101.20,
-                          "changePct":  -2.2,
-                          "status":  "GAP WATCH",
+                          "price":  null,
+                          "changePct":  null,
+                          "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "$20B stock offering reported; dilution risk, confirm at open"
+                          "note":  "Chip sector broadly lower on bond yields + Middle East; no company-specific news"
                       },
                       {
                           "symbol":  "HIMS",
-                          "price":  27.90,
-                          "changePct":  -2.5,
-                          "status":  "GAP WATCH",
+                          "price":  null,
+                          "changePct":  null,
+                          "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "Guidance update event today; watch direction at bell"
+                          "note":  "No premarket price or news"
                       },
                       {
                           "symbol":  "OKLO",
-                          "price":  43.10,
-                          "changePct":  -1.8,
+                          "price":  null,
+                          "changePct":  null,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "Post-earnings Aug 7; no new thesis-breaking news"
+                          "note":  "Groves reactor first criticality Aug 6 strengthens thesis"
                       },
                       {
                           "symbol":  "LUNR",
-                          "price":  19.85,
-                          "changePct":  -2.6,
-                          "status":  "GAP WATCH",
+                          "price":  null,
+                          "changePct":  null,
+                          "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "High-beta NQ name; macro-driven gap, no company news"
+                          "note":  "No premarket price or news; thesis intact"
                       },
                       {
                           "symbol":  "JOBY",
-                          "price":  7.75,
-                          "changePct":  -2.0,
+                          "price":  null,
+                          "changePct":  null,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "$500M deal confirmed per Seeking Alpha; gap is macro not thesis"
+                          "note":  "No premarket price or news; thesis intact"
                       },
                       {
                           "symbol":  "IBM",
-                          "price":  227.50,
-                          "changePct":  -0.6,
+                          "price":  null,
+                          "changePct":  null,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "No specific news; mild broad market drag"
+                          "note":  "No premarket price or news"
                       },
                       {
                           "symbol":  "BE",
-                          "price":  228.00,
-                          "changePct":  -1.8,
+                          "price":  null,
+                          "changePct":  null,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "Clean energy soft on oil narrative; thesis intact"
+                          "note":  "No premarket price or news; unclassified position"
                       },
                       {
                           "symbol":  "NVTS",
-                          "price":  14.25,
-                          "changePct":  -2.3,
+                          "price":  null,
+                          "changePct":  null,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "Small-cap semi dragged by NQ futures; no news"
+                          "note":  "No premarket price or news"
                       },
                       {
                           "symbol":  "NUKZ",
-                          "price":  66.50,
-                          "changePct":  -1.9,
+                          "price":  null,
+                          "changePct":  null,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "Nuclear ETF tracking sector weakness; no individual catalyst"
+                          "note":  "Nuclear ETF; no specific news today"
                       }
                   ]
 }
