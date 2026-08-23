@@ -1,5 +1,5 @@
 ﻿{
-    "catalyst":  "Monday open: no major Saturday/Sunday catalysts scheduled; watch 10yr yield vs 4.75% resistance and any weekend Iran/geopolitical headlines",
+    "catalyst":  "NVDA earnings Wed Aug 26 — expect Monday AI-infra preposition in NBIS, CBRS, SKHY; also watch any Jackson Hole Fed weekend commentary on rate path with 10yr at 4.74%",
     "rangeWatch":  [
                        {
                            "symbol":  "CRDO",
@@ -34,16 +34,15 @@
                            "notes":  "Added manually."
                        }
                    ],
-    "standouts":  "Nuclear sector -5% Thu on rate anxiety and Q2 earnings; short sellers booked $2B on SMR names; NBIS prior gapper on Nvidia 9.3% stake; chip names stabilizing",
-    "macro":  "ES futures +0.4%, NQ +0.6% Friday premarket; 10yr yield 4.70% near 20-month high; VIX 16.01 elevated vs Aug-17 YTD low 14.18; yield anxiety dominant risk",
-    "fullBrief":  "Macro: ES futures +0.4%, NQ +0.6% Friday premarket as yields stabilized; 10yr Treasury at 4.70% (near 20-month high of 4.75%), VIX closed at 16.01 -- elevated vs Aug 17 YTD low of 14.18; yield anxiety remains the dominant risk.\nPre-market standouts (Friday): Nuclear sector under broad pressure -- SMR and OKLO each dropped ~5% Thursday on rate anxiety and Q2 earnings scrutiny; short sellers booked $2B profit on modular nuclear names this week; NBIS was a prior gapper on Nvidia stake disclosure.\nSMR ~$9.40 est flat: HOLD -- thesis intact; Texas Capital cut PT to $12 from $15 post-Q2, $75K revenue print and $750M ATM program weigh; no thesis break.\nUEC ~$12.76 est flat: HOLD -- uranium miner; UEC held up better than advanced-reactor names per Yahoo Finance; sector pressure but no thesis break.\nSKHY ~$163.41 est flat: HOLD -- SK Hynix; retail sentiment bullish on AI HBM demand; sector recovering after chip rebound.\nINTC ~$90.07 est flat: HOLD -- Intel thesis hold; sector rebounding; retail sentiment bullish heading into positioning.\nHIMS ~$33.78 est flat: HOLD -- no material news this week; macro rate pressure is minor headwind for growth names.\nOKLO ~$42.09 est flat: HOLD -- Oklo reached SMR criticality in Texas Aug 6; Truist Buy with $89 PT; thesis fully intact despite PT cuts.\nNBIS ~$219.13 est flat: HOLD -- Nebius; Nvidia 9.3% stake disclosure was a prior catalyst; AI cloud thesis intact.\nLUNR ~$18.32 est flat: HOLD -- Intuitive Machines; space launch narrative supported by Trump administration 1,000-launches target commentary.\nJOBY ~$7.53 est flat: HOLD -- Joby Aviation; thesis hold; no major news this week.\nIBM ~$235.68 est flat: HOLD -- no material news; stable large-cap AI infrastructure name.\nCBRS ~$196.13 est flat: HOLD -- Cerebras Systems; no specific news retrieved; monitor.\nBE ~$201.45 est flat: HOLD -- Bloom Energy; institutional buying noted (Goldman flagged hedge fund accumulation); no thesis break.\nNVTS ~$12.97 est flat: HOLD -- Navitas; no news; small position; monitor.\nNUKZ ~$65.76 est flat: HOLD -- nuclear ETF exposure; sector under pressure from yield spike and SMR stock selloffs.\nCatalyst to watch at the open: Monday open -- no major scheduled catalysts Saturday/Sunday; key watch is whether 10yr yield holds below 4.75% resistance and any weekend geopolitical headlines on Iran sanctions that could spike oil/yields.\n\n---",
+    "standouts":  "No live Sunday premarket; Fri movers: Ross Stores +8% on earnings, crypto stocks up on bitcoin strength, nuclear names soft mid-week then recovered Fri; CBRS Q2 core rev beat with guidance raised to $880M-$890M",
+    "macro":  "ES flat-to-+0.3% into Mon Aug 25 open; S\u0026P 500 closed 7,674 Fri +0.4%; VIX 15.13 calm but mid-Aug/Oct volatility seasonal risk; 10yr yield 4.74% near 20-month high on AI debt issuance and fiscal concerns — yields are primary macro headwind",
+    "fullBrief":  "Macro: ES futures estimated flat-to-slightly positive into Mon open; S\u0026P 500 closed at 7,674 Fri (+0.4%); VIX at 15.13 (calm but strategists warn mid-Aug to mid-Oct historically choppy); 10yr yield at 4.74%, near 20-month highs, driven by AI debt issuance and fiscal deficits — yields remain the primary macro risk.\nPre-market standouts: No live Sunday premarket data available; Friday\u0027s notable movers were Ross Stores +8% on earnings beat and crypto-related stocks broadly higher on bitcoin strength; nuclear names (OKLO, SMR) were down Wed-Thu but rebounded Fri; CBRS reported Q2 core revenue beat with guidance raised to $880M-$890M.\nSMR ~$9.42, ~flat vs basis $9.40 — HOLD; thesis intact, nuclear sector soft mid-week but no thesis break; watch yield sensitivity.\nUEC ~$12.76, flat vs basis — HOLD; uranium thesis intact, no specific news.\nSKHY ~$163.41, flat vs basis — HOLD; SK Hynix HBM demand tied to AI capex cycle; BoA $250 target on record.\nINTC ~$90.07, flat vs basis — HOLD; foundry thesis, no breaking news this weekend.\nHIMS ~$33.78, flat vs basis — HOLD; no FDA decisions flagged this weekend.\nOKLO ~$42.19, +0.2% vs basis $42.09 — HOLD; Q2 earnings posted Aug 7 with first revenue; PT lowered by Texas Capital to $89, Wedbush maintains $110 target; thesis intact.\nNBIS ~$219.13, flat vs basis — HOLD; Nvidia $2B investment thesis intact; NVDA reports Wed Aug 26, watch for halo effect.\nLUNR ~$18.32, flat vs basis — HOLD; Intuitive Machines thesis intact, no breaking news.\nJOBY ~$7.56, +0.4% vs basis $7.53 — HOLD; Q2 beat, raised 2026 outlook, $750M equity distribution deal, Resonant Sciences acquisition announced; analyst sell PT cut to $8, watch dilution risk.\nIBM ~$235.68, CBRS ~$196.13, BE ~$201.45, NVTS ~$12.97, NUKZ ~$65.76 — all HOLD; no thesis-breaking news; CBRS Q2 core rev beat is a mild positive.\nCatalyst to watch at the open Monday Aug 25: Nvidia (NVDA) earnings Wednesday Aug 26 pre-positioning likely to drive AI-infrastructure names (NBIS, CBRS, SKHY) Monday; also watch Jackson Hole Fed commentary if any weekend remarks emerge on rate path with 10yr yield at 4.74%.",
     "marketDirection":  {
-                            "es":  "+0.4%",
-                            "vix":  "16"
+                            "vix":  "15"
                         },
-    "generatedAt":  "2026-08-22T13:01:17Z",
-    "asOfLabel":  "2026-08-22, 9:15 AM ET",
-    "watchAlert":  "ES +0.4% VIX 16 10Y 4.70% | OKLO HOLD | SMR HOLD | LUNR HOLD | JOBY HOLD | NBIS HOLD | INTC HOLD | nuclear sector under PT cuts pressure; no thesis breaks de...",
+    "generatedAt":  "2026-08-23T13:01:35Z",
+    "asOfLabel":  "2026-08-23, 9:15 AM ET",
+    "watchAlert":  "ES flat-to-+0.3% VIX 15 | OKLO HOLD $42 | JOBY HOLD $7.56 | SMR HOLD $9.42 | NBIS HOLD — NVDA earnings Wed key catalyst; 10yr 4.74% watch",
     "longWatch":  [
                       {
                           "symbol":  "OKLO",
@@ -81,11 +80,19 @@
     "positions":  [
                       {
                           "symbol":  "SMR",
-                          "price":  9.40,
-                          "changePct":  0.0,
+                          "price":  9.42,
+                          "changePct":  0.2,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "Texas Capital PT cut to $12 from $15 post-Q2; $75K revenue and $750M ATM weigh; thesis intact"
+                          "note":  "Nuclear thesis intact; sector soft mid-week but recovered; no thesis break"
+                      },
+                      {
+                          "symbol":  "SMR",
+                          "price":  9.42,
+                          "changePct":  0.2,
+                          "status":  "HOLD",
+                          "stopPrice":  null,
+                          "note":  "Second lot same basis — consolidated hold"
                       },
                       {
                           "symbol":  "UEC",
@@ -93,7 +100,15 @@
                           "changePct":  0.0,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "Held up better than advanced-reactor names; sector pressure but no thesis break"
+                          "note":  "Uranium thesis intact, no specific news"
+                      },
+                      {
+                          "symbol":  "UEC",
+                          "price":  12.76,
+                          "changePct":  0.0,
+                          "status":  "HOLD",
+                          "stopPrice":  null,
+                          "note":  "Second lot same basis — consolidated hold"
                       },
                       {
                           "symbol":  "SKHY",
@@ -101,7 +116,7 @@
                           "changePct":  0.0,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "Retail sentiment bullish on AI HBM demand; chip sector recovering"
+                          "note":  "HBM demand tied to AI capex; BofA $250 target; NVDA earnings Wed could catalyze"
                       },
                       {
                           "symbol":  "INTC",
@@ -109,7 +124,15 @@
                           "changePct":  0.0,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "Semiconductor rebound; retail sentiment bullish; thesis hold"
+                          "note":  "Foundry thesis intact, no breaking news"
+                      },
+                      {
+                          "symbol":  "INTC",
+                          "price":  90.07,
+                          "changePct":  0.0,
+                          "status":  "HOLD",
+                          "stopPrice":  null,
+                          "note":  "Second lot same basis — consolidated hold"
                       },
                       {
                           "symbol":  "HIMS",
@@ -117,15 +140,15 @@
                           "changePct":  0.0,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "No material news; rate pressure minor headwind for growth"
+                          "note":  "No FDA decisions flagged this weekend"
                       },
                       {
                           "symbol":  "OKLO",
-                          "price":  42.09,
-                          "changePct":  0.0,
+                          "price":  42.19,
+                          "changePct":  0.2,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "Reached SMR criticality in Texas Aug 6; Truist Buy $89 PT; thesis intact"
+                          "note":  "Q2 first-ever revenue reported Aug 7; Texas Capital PT $89, Wedbush $110; thesis holds"
                       },
                       {
                           "symbol":  "NBIS",
@@ -133,7 +156,7 @@
                           "changePct":  0.0,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "Nvidia 9.3% stake disclosure prior catalyst; AI cloud thesis intact"
+                          "note":  "Nvidia $2B investment thesis intact; NVDA earnings Wed potential halo"
                       },
                       {
                           "symbol":  "LUNR",
@@ -141,15 +164,31 @@
                           "changePct":  0.0,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "Space launch narrative supported; Trump 1000-launches target commentary"
+                          "note":  "Intuitive Machines thesis intact, no breaking news"
                       },
                       {
-                          "symbol":  "JOBY",
-                          "price":  7.53,
+                          "symbol":  "LUNR",
+                          "price":  18.32,
                           "changePct":  0.0,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "No major news this week; thesis hold"
+                          "note":  "Second lot same basis — consolidated hold"
+                      },
+                      {
+                          "symbol":  "JOBY",
+                          "price":  7.56,
+                          "changePct":  0.4,
+                          "status":  "HOLD",
+                          "stopPrice":  null,
+                          "note":  "Q2 beat, raised 2026 outlook, $750M equity deal, Resonant acq; watch dilution risk"
+                      },
+                      {
+                          "symbol":  "JOBY",
+                          "price":  7.56,
+                          "changePct":  0.4,
+                          "status":  "HOLD",
+                          "stopPrice":  null,
+                          "note":  "Second lot same basis — consolidated hold"
                       },
                       {
                           "symbol":  "IBM",
@@ -157,7 +196,7 @@
                           "changePct":  0.0,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "Stable large-cap AI infrastructure; no material news"
+                          "note":  "No breaking news"
                       },
                       {
                           "symbol":  "CBRS",
@@ -165,7 +204,7 @@
                           "changePct":  0.0,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "No specific news retrieved; monitor"
+                          "note":  "Q2 core rev beat $209.9M; guidance raised to $880M-$890M; hardware sales down 23%"
                       },
                       {
                           "symbol":  "BE",
@@ -173,7 +212,7 @@
                           "changePct":  0.0,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "Goldman flagged institutional hedge fund accumulation; no thesis break"
+                          "note":  "Bloom Energy thesis intact, no breaking news"
                       },
                       {
                           "symbol":  "NVTS",
@@ -181,7 +220,15 @@
                           "changePct":  0.0,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "No news; small position; monitor"
+                          "note":  "No breaking news"
+                      },
+                      {
+                          "symbol":  "NVTS",
+                          "price":  12.97,
+                          "changePct":  0.0,
+                          "status":  "HOLD",
+                          "stopPrice":  null,
+                          "note":  "Second lot same basis — consolidated hold"
                       },
                       {
                           "symbol":  "NUKZ",
@@ -189,7 +236,7 @@
                           "changePct":  0.0,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "Nuclear ETF; sector under yield and SMR selloff pressure"
+                          "note":  "Nuclear ETF; sector thesis intact"
                       }
                   ]
 }
