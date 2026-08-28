@@ -1,5 +1,5 @@
 ﻿{
-    "catalyst":  "Jackson Hole Fed symposium Day 1 (Chair Warsh keynote TBD); weekly jobless claims 8:30 AM ET; DG, BBY, MRVL, WDAY, AFRM earnings reaction at open",
+    "catalyst":  "Fed Chair Warsh inaugural Jackson Hole keynote at 10:00 AM ET — hawkish or ambiguous tone is primary risk; no earnings or FDA events for held names today",
     "rangeWatch":  [
                        {
                            "symbol":  "CRDO",
@@ -34,17 +34,16 @@
                            "notes":  "Added manually."
                        }
                    ],
-    "standouts":  "NVDA +7% premarket dominant mover; nuclear/uranium names SMR +5%, UEC +5%, OKLO +4% catching AI power demand bid",
-    "macro":  "ES +0.4%, NQ +0.9% on Nvidia blowout earnings; VIX 14.94 calm; 10yr yield 4.645% easing 2bp ahead of Jackson Hole Day 1 under Chair Warsh",
-    "fullBrief":  "ES futures +0.4%, NQ +0.9% on Nvidia blowout earnings; VIX 14.94 calm; 10yr yield 4.645% easing 2bp ahead of Jackson Hole day one under Fed Chair Warsh.\nNVDA +7% premarket is the dominant standout; AI/semi sector broadly bid; nuclear/energy names also catching a bid on continued AI power demand narrative.\nSMR (NuScale) ~$10.30 +5% premarket HOLD; nuclear sector bouncing on oversold conditions, thesis intact despite minimal Q2 revenue.\nUEC (Uranium Energy) ~$13.90 +5% premarket HOLD; uranium names catching bid alongside nuclear rally, no specific news today.\nOKLO ~$46.00 +4% premarket HOLD; extending prior session gains, insiders selling noted but thesis unchanged.\nLUNR ~$16.60 flat premarket HOLD; no specific news, watch for AI/space spillover from Nvidia-led tech bid.\nJOBY ~$7.22 flat premarket HOLD; no specific catalyst, eVTOL thesis intact.\nINTC ~$87.50 flat premarket HOLD; no major Intel-specific news; AI compute spend from Nvidia results may be marginally supportive.\nHIMS ~$31.75 flat premarket HOLD; no news today, thesis intact.\nNBIS ~$222.00 flat premarket HOLD; Nebius benefits from AI infrastructure narrative following Nvidia beat.\nIBM ~$234.20 flat premarket HOLD; no specific news, stable thesis.\nBE (Bloom Energy) ~$217.50 flat premarket HOLD; AI data center power demand narrative supportive; no company-specific news.\nSKHY, CBRS, NUKZ, NVTS prices tracking near prior close; all HOLD, no thesis-breaking news found.\nCatalyst at open: Jackson Hole Fed symposium Day 1 (Chair Warsh keynote timing TBD); weekly jobless claims at 8:30 AM ET; earnings reaction from Dollar General, Best Buy, Marvell, Workday, Affirm pre-open.\n\n---",
+    "standouts":  "NVDA +6.6% on $96.2B revenue blowout (sector tailwind for semis); PayPal -16% premarket (Advent/Stripe abandoned pursuit, not in book)",
+    "macro":  "ES flat (+0.01%), NQ -0.28%, VIX 15.65 (edging up), 10yr yield 4.68% elevated; sticky PCE 3.7% adds rate pressure; markets drift ahead of Warsh Jackson Hole speech",
+    "fullBrief":  "ES futures flat (+0.01%), NQ -0.28%, VIX 15.65 (edging up from 15.21 close), 10yr yield 4.68% (elevated; sticky PCE 3.7% adds rate pressure). Warsh inaugural Jackson Hole speech at 10:00 AM ET is the dominant risk event; markets expect no forward guidance — ambiguity risk is high.\nPre-market standouts: NVDA +6.6% on blowout $96.2B revenue beat — broad semiconductor tailwind. PayPal -16% premarket (Advent/Stripe abandoned acquisition talks) — not in book.\nSMR ~$9.69 (-0.5%) HOLD — thesis hold; nuclear sector quiet, no new news today; next earnings Nov 5.\nUEC ~$13.58 (-0.3%) HOLD — thesis hold; uranium sector flat; sector positioning, no new catalyst.\nINTC ~$91.80 (-0.3%) HOLD — thesis hold; NVDA beat is a sector tailwind for semi ecosystem.\nHIMS ~$31.40 (-0.8%) HOLD — thesis hold; NQ pressure, no company-specific news today.\nOKLO ~$42.30 (-0.5%) HOLD — thesis hold; nuclear quiet premarket; no new contracts or news.\nLUNR ~$16.05 (-0.8%) HOLD — thesis hold; no mission/contract news; Warsh speech is key risk.\nJOBY ~$7.10 (-0.7%) HOLD — thesis hold; eVTOL sector quiet; no FAA or partnership news.\nCBRS ~$185.50 (-0.6%) HOLD — unclassified position; no company-specific news.\nBE ~$216.00 (-0.8%) HOLD — unclassified; Bloom Energy quiet, no utility news today.\nNVTS ~$12.40 (-0.9%) HOLD — unclassified; Navitas quiet, minor NQ drag.\nNUKZ ~$66.50 (-0.8%) HOLD — nuclear ETF, sector flat; no new nuclear policy news.\nKey catalyst: Fed Chair Warsh delivers inaugural Jackson Hole keynote at 10:00 AM ET — hawkish or ambiguous tone could reprice rates and hit speculative names across the book.",
     "marketDirection":  {
-                            "vix":  "14.9",
-                            "nq":  "+0.9%",
-                            "es":  "+0.4%"
+                            "nq":  "-0.3%",
+                            "vix":  "15.65"
                         },
-    "generatedAt":  "2026-08-27T13:01:07Z",
-    "asOfLabel":  "2026-08-27, 9:15 AM ET",
-    "watchAlert":  "ES +0.4% NQ +0.9% VIX 14.9 | OKLO HOLD +4%pm | SMR HOLD +5%pm | UEC HOLD +5%pm | JOBY HOLD | LUNR GAP WATCH nuke+AI bid",
+    "generatedAt":  "2026-08-28T13:01:45Z",
+    "asOfLabel":  "2026-08-28, 9:15 AM ET",
+    "watchAlert":  "ES flat NQ -0.3% VIX 15.65 | Warsh@10AM MACRO RISK | INTC HOLD NVDA tailwind | OKLO HOLD | JOBY HOLD | SMR HOLD",
     "longWatch":  [
                       {
                           "symbol":  "OKLO",
@@ -82,163 +81,91 @@
     "positions":  [
                       {
                           "symbol":  "SMR",
-                          "price":  10.30,
-                          "changePct":  5.2,
+                          "price":  9.69,
+                          "changePct":  -0.5,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "Nuclear bounce, oversold rebound; thesis intact despite minimal Q2 revenue"
-                      },
-                      {
-                          "symbol":  "SMR",
-                          "price":  10.30,
-                          "changePct":  5.2,
-                          "status":  "HOLD",
-                          "stopPrice":  null,
-                          "note":  "Second lot same thesis"
+                          "note":  "Thesis hold; nuclear sector quiet, no new news; next earnings Nov 5"
                       },
                       {
                           "symbol":  "UEC",
-                          "price":  13.90,
-                          "changePct":  4.7,
+                          "price":  13.58,
+                          "changePct":  -0.3,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "Uranium sector bid, no specific news; oversold bounce"
-                      },
-                      {
-                          "symbol":  "UEC",
-                          "price":  13.90,
-                          "changePct":  4.7,
-                          "status":  "HOLD",
-                          "stopPrice":  null,
-                          "note":  "Second lot same thesis"
-                      },
-                      {
-                          "symbol":  "SKHY",
-                          "price":  159.53,
-                          "changePct":  0.0,
-                          "status":  "HOLD",
-                          "stopPrice":  null,
-                          "note":  "No news; tracking flat"
+                          "note":  "Thesis hold; uranium sector flat, no new catalyst"
                       },
                       {
                           "symbol":  "INTC",
-                          "price":  87.50,
-                          "changePct":  0.0,
+                          "price":  91.80,
+                          "changePct":  -0.3,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "No Intel-specific news; AI compute spend marginally supportive"
-                      },
-                      {
-                          "symbol":  "INTC",
-                          "price":  87.50,
-                          "changePct":  0.0,
-                          "status":  "HOLD",
-                          "stopPrice":  null,
-                          "note":  "Second lot same thesis"
+                          "note":  "Thesis hold; NVDA beat is sector tailwind for semi ecosystem"
                       },
                       {
                           "symbol":  "HIMS",
-                          "price":  31.75,
-                          "changePct":  0.0,
+                          "price":  31.40,
+                          "changePct":  -0.8,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "No news today; thesis intact"
+                          "note":  "Thesis hold; NQ pressure, no company-specific news"
                       },
                       {
                           "symbol":  "OKLO",
-                          "price":  46.00,
-                          "changePct":  3.9,
+                          "price":  42.30,
+                          "changePct":  -0.5,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "Extending prior session gains; insider sales noted but thesis unchanged"
-                      },
-                      {
-                          "symbol":  "NBIS",
-                          "price":  222.00,
-                          "changePct":  0.0,
-                          "status":  "HOLD",
-                          "stopPrice":  null,
-                          "note":  "AI infra narrative supportive post-Nvidia beat"
+                          "note":  "Thesis hold; nuclear quiet premarket, no new contracts"
                       },
                       {
                           "symbol":  "LUNR",
-                          "price":  16.60,
-                          "changePct":  0.0,
+                          "price":  16.05,
+                          "changePct":  -0.8,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "Flat; watch for AI/space sector spillover"
-                      },
-                      {
-                          "symbol":  "LUNR",
-                          "price":  16.60,
-                          "changePct":  0.0,
-                          "status":  "HOLD",
-                          "stopPrice":  null,
-                          "note":  "Second lot same thesis"
+                          "note":  "Thesis hold; no mission or contract news; Warsh speech key risk"
                       },
                       {
                           "symbol":  "JOBY",
-                          "price":  7.22,
-                          "changePct":  0.0,
+                          "price":  7.10,
+                          "changePct":  -0.7,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "No catalyst; eVTOL thesis intact"
-                      },
-                      {
-                          "symbol":  "JOBY",
-                          "price":  7.22,
-                          "changePct":  0.0,
-                          "status":  "HOLD",
-                          "stopPrice":  null,
-                          "note":  "Second lot same thesis"
-                      },
-                      {
-                          "symbol":  "IBM",
-                          "price":  234.20,
-                          "changePct":  0.0,
-                          "status":  "HOLD",
-                          "stopPrice":  null,
-                          "note":  "No specific news; stable"
+                          "note":  "Thesis hold; eVTOL sector quiet, no FAA or partnership news"
                       },
                       {
                           "symbol":  "CBRS",
-                          "price":  183.92,
-                          "changePct":  0.0,
+                          "price":  185.50,
+                          "changePct":  -0.6,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "No news; tracking flat"
+                          "note":  "Unclassified position; no company-specific news"
                       },
                       {
                           "symbol":  "BE",
-                          "price":  217.50,
-                          "changePct":  0.0,
+                          "price":  216.00,
+                          "changePct":  -0.8,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "Data center power demand narrative supportive; no company news"
+                          "note":  "Unclassified; Bloom Energy quiet, no utility news"
                       },
                       {
                           "symbol":  "NVTS",
-                          "price":  12.44,
-                          "changePct":  0.0,
+                          "price":  12.40,
+                          "changePct":  -0.9,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "No news; tracking flat"
-                      },
-                      {
-                          "symbol":  "NVTS",
-                          "price":  12.44,
-                          "changePct":  0.0,
-                          "status":  "HOLD",
-                          "stopPrice":  null,
-                          "note":  "Second lot same thesis"
+                          "note":  "Unclassified; Navitas quiet, minor NQ drag"
                       },
                       {
                           "symbol":  "NUKZ",
-                          "price":  66.45,
-                          "changePct":  0.0,
+                          "price":  66.50,
+                          "changePct":  -0.8,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "Nuclear ETF; sector bid supportive"
+                          "note":  "Unclassified nuclear ETF; sector flat, no new policy news"
                       }
                   ]
 }
