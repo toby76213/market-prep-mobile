@@ -1,5 +1,5 @@
 ﻿{
-    "catalyst":  "Monday: ISM Manufacturing 10 AM ET; Fed speaker follow-up to Warsh Jackson Hole hawkish comments; September rate hike odds elevated.",
+    "catalyst":  "ISM Manufacturing data 10:00 AM ET Monday; watch for post-Jackson Hole Fed speaker follow-up commentary; no earnings or FDA decisions on held names today",
     "rangeWatch":  [
                        {
                            "symbol":  "CRDO",
@@ -34,17 +34,15 @@
                            "notes":  "Added manually."
                        }
                    ],
-    "standouts":  "No Toby book names moving Saturday; Friday standout outside book: PayPal -16% on collapsed acquisition talks. UEC -8.4% Friday is largest in-book move.",
-    "macro":  "ES futures -0.11%, NQ -0.42%, VIX 14.4 (benign), 10yr Treasury 4.73% rising; Warsh hawkish at Jackson Hole, markets price ~50% chance Sept rate hike. NOTE: Markets CLOSED today Saturday Aug 29.",
-    "fullBrief":  "NOTE: Today is Saturday August 29 -- US equity markets are CLOSED. No open at 9:30 ET. This brief reflects Friday August 28 closing data and Saturday futures levels for Monday prep.\nMacro: ES futures -0.11%, NQ -0.42%, VIX 14.4 (low/benign), 10yr Treasury 4.73% and rising after Fed Chair Warsh at Jackson Hole warned inflation has not meaningfully slowed and markets now price ~50% chance of a September rate hike.\nPre-market standouts: No Toby book names are moving big today (Saturday); notable Friday mover not in book -- PayPal -16% after acquisition talks collapsed.\nSMR 564sh avg $9.74 -- last close $9.24, -5.1% from cost. HOLD. Nuclear sector weak Friday on Warsh rate hike fears; SMR criticality thesis intact, Barclays PT cut to $11 but still above current price.\nUEC 515sh avg $13.62 -- last close $12.47, -8.4% Friday drop. HOLD. GAP WATCH. Sector-wide nuclear selloff on Aug 28 drove UEC down 8.4% in one session; no company-specific thesis-breaking news.\nINTC 218sh avg $92.09 -- last close est ~$92, flat. HOLD. No news; chipmakers broadly weak Friday post-Nvidia pullback but Intel not specifically implicated.\nHIMS 275sh avg $31.66 -- last close est ~$31-32, flat. HOLD. No news specific to Hims today.\nOKLO 470sh avg $42.53 -- last close $40.42, -5.0% Friday. HOLD. Oklo reached SMR criticality milestone Aug 6 and reported first Q2 revenue; thesis intact despite sector volatility.\nLUNR 1625sh avg $16.18 -- last close est ~$16, flat. HOLD. No news; Intuitive Machines thesis unchanged.\nJOBY 3455sh avg $7.15 -- last close est ~$7, flat. HOLD. No news; eVTOL thesis unchanged.\nCBRS 100sh avg $186.67 -- last close est ~$186, flat. HOLD. Thinly traded; no news.\nBE 200sh avg $217.83 -- last close est ~$217, flat. HOLD. Bloom Energy no news; energy sector mixed.\nNVTS 21sh avg $12.51 -- last close est ~$12, flat. HOLD. Navitas no specific news.\nNUKZ 5sh avg $67.03 -- last close est ~$67, flat. HOLD. Nuclear ETF tracking sector; monitor Monday open given sector weakness.\nMonday catalyst watch: Fed rate hike probability (~50% for September) elevated after Warsh speech; watch ISM Manufacturing data Monday 10 AM ET and any Fed speaker follow-up commentary.",
+    "standouts":  "Nuclear sector mid-week bounce (SMR +9%, OKLO +12%, UEC +6% Tue) partially retraced by Thu-Fri; Nvidia Q2 blowout; Warsh hawkish surprise pressuring long-duration growth names",
+    "macro":  "ES/NQ futures near flat Sunday; VIX 14.43 (2026 low); 10yr yield 4.68% after Fed Chair Warsh hawkish Jackson Hole speech; ~50% Sep rate hike odds priced; Nvidia record Q2 revenue doubles YoY positive for tech",
+    "fullBrief":  "ES futures near flat Sunday AM, NQ mildly soft; VIX closed Friday at 14.43, lowest 2026 level; 10yr yield 4.68% after Fed Chair Warsh Jackson Hole speech warned inflation not meaningfully slowed, pricing ~50% September rate hike odds.\nMacro standout: Nvidia reported record Q2 revenue (~$96B, doubling YoY); hawkish Warsh offset tech enthusiasm; nuclear sector saw coordinated bounce mid-week then partial giveback by Thursday.\nSMR $9.24, -5.1% vs cost basis $9.74, no Sunday premarket gap; HOLD -- thesis intact, next earnings Nov 5; Barclays PT cut to $11, Citi Sell at $7.50, but bullish options flow detected Aug 28.\nUEC $13.21, -3.0% vs cost $13.62; HOLD -- uranium supply thesis intact, U.S.-Canada trade tensions keeping focus on domestic supply.\nINTC $92.09, flat; HOLD -- AI infrastructure capex boom (Nvidia/datacenter) indirect tailwind; no specific Intel news today.\nHIMS $31.66, flat; HOLD -- no FDA or specific news today.\nOKLO $41.64, -2.1% vs cost $42.53; HOLD -- nuclear AI power demand thesis intact; no thesis-breaking news.\nLUNR $16.18, flat; HOLD -- no NASA or contract news today.\nJOBY $7.15, flat; HOLD -- no FAA or certification news today.\nCBRS $186.67, flat; HOLD -- no specific news today.\nBE $217.83, flat; HOLD -- no specific news today; Bloom Energy benefits from AI power demand narrative.\nNVTS $12.51, flat; HOLD -- Navitas semiconductor thesis intact.\nNUKZ $67.03, flat; HOLD -- nuclear ETF tracks sector; mid-week bounce faded somewhat.\nNo major catalysts at open Monday; watch for any Fed speaker commentary and ISM Manufacturing data due 10:00 AM ET.",
     "marketDirection":  {
-                            "vix":  "14.4",
-                            "nq":  "-0.42%",
-                            "es":  "-0.11%"
+                            "vix":  "14"
                         },
-    "generatedAt":  "2026-08-29T13:01:29Z",
-    "asOfLabel":  "2026-08-29, 9:15 AM ET",
-    "watchAlert":  "⚠️ MARKETS CLOSED TODAY (Saturday). ES -0.11% NQ -0.42% VIX 14.4 10yr 4.73% Warsh hike risk | UEC GAP WATCH -8.4% Fri | OKLO HOLD | SMR HOLD | JOBY HOLD",
+    "generatedAt":  "2026-08-30T13:01:17Z",
+    "asOfLabel":  "2026-08-30, 9:15 AM ET",
+    "watchAlert":  "ES ~flat VIX 14 10yr 4.68% Warsh hawkish | SMR HOLD $9.24 below cost | OKLO HOLD $41.64 | INTC HOLD | JOBY HOLD nuclear+AI thesis intact",
     "longWatch":  [
                       {
                           "symbol":  "OKLO",
@@ -83,18 +81,34 @@
                       {
                           "symbol":  "SMR",
                           "price":  9.24,
-                          "changePct":  -5.1,
+                          "changePct":  0.0,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "Nuclear sector weak post-Warsh; SMR criticality thesis intact, Barclays PT $11"
+                          "note":  "Below cost basis $9.74; thesis hold; bullish options flow Aug 28; next earnings Nov 5"
+                      },
+                      {
+                          "symbol":  "SMR",
+                          "price":  9.24,
+                          "changePct":  0.0,
+                          "status":  "HOLD",
+                          "stopPrice":  null,
+                          "note":  "Lot 2 (50sh) same thesis"
                       },
                       {
                           "symbol":  "UEC",
-                          "price":  12.47,
-                          "changePct":  -8.4,
-                          "status":  "GAP WATCH",
+                          "price":  13.21,
+                          "changePct":  0.0,
+                          "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "Sector-wide selloff Aug 28; no company-specific thesis break"
+                          "note":  "Below cost $13.62; U.S.-Canada uranium supply thesis intact"
+                      },
+                      {
+                          "symbol":  "UEC",
+                          "price":  13.21,
+                          "changePct":  0.0,
+                          "status":  "HOLD",
+                          "stopPrice":  null,
+                          "note":  "Lot 2 (52sh) same thesis"
                       },
                       {
                           "symbol":  "INTC",
@@ -102,7 +116,15 @@
                           "changePct":  0.0,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "Chipmakers broadly weak Friday post-Nvidia pullback; Intel not specifically flagged"
+                          "note":  "AI datacenter capex boom indirect tailwind; no Intel-specific news"
+                      },
+                      {
+                          "symbol":  "INTC",
+                          "price":  92.09,
+                          "changePct":  0.0,
+                          "status":  "HOLD",
+                          "stopPrice":  null,
+                          "note":  "Lot 2 (76sh) same thesis"
                       },
                       {
                           "symbol":  "HIMS",
@@ -110,15 +132,15 @@
                           "changePct":  0.0,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "No news today"
+                          "note":  "No FDA or company news today"
                       },
                       {
                           "symbol":  "OKLO",
-                          "price":  40.42,
-                          "changePct":  -5.0,
+                          "price":  41.64,
+                          "changePct":  -2.1,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "SMR criticality milestone Aug 6; first Q2 revenue; thesis intact"
+                          "note":  "Slightly below cost $42.53; nuclear AI power thesis intact"
                       },
                       {
                           "symbol":  "LUNR",
@@ -126,7 +148,15 @@
                           "changePct":  0.0,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "No news; Intuitive Machines thesis unchanged"
+                          "note":  "No NASA or contract news today"
+                      },
+                      {
+                          "symbol":  "LUNR",
+                          "price":  16.18,
+                          "changePct":  0.0,
+                          "status":  "HOLD",
+                          "stopPrice":  null,
+                          "note":  "Lot 2 (33sh) same thesis"
                       },
                       {
                           "symbol":  "JOBY",
@@ -134,7 +164,15 @@
                           "changePct":  0.0,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "No news; eVTOL thesis unchanged"
+                          "note":  "No FAA or certification news today"
+                      },
+                      {
+                          "symbol":  "JOBY",
+                          "price":  7.15,
+                          "changePct":  0.0,
+                          "status":  "HOLD",
+                          "stopPrice":  null,
+                          "note":  "Lot 2 (80sh) same thesis"
                       },
                       {
                           "symbol":  "CBRS",
@@ -142,7 +180,7 @@
                           "changePct":  0.0,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "Thinly traded; no news"
+                          "note":  "No specific news today; unclassified, defaulting to hold"
                       },
                       {
                           "symbol":  "BE",
@@ -150,7 +188,7 @@
                           "changePct":  0.0,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "Bloom Energy no specific news"
+                          "note":  "Bloom Energy; AI power demand narrative supportive"
                       },
                       {
                           "symbol":  "NVTS",
@@ -158,7 +196,15 @@
                           "changePct":  0.0,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "Navitas no specific news"
+                          "note":  "Navitas semi thesis intact; no news today"
+                      },
+                      {
+                          "symbol":  "NVTS",
+                          "price":  12.51,
+                          "changePct":  0.0,
+                          "status":  "HOLD",
+                          "stopPrice":  null,
+                          "note":  "Lot 2 (9sh) same thesis"
                       },
                       {
                           "symbol":  "NUKZ",
@@ -166,7 +212,7 @@
                           "changePct":  0.0,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "Nuclear ETF tracking sector; monitor Monday given sector weakness"
+                          "note":  "Nuclear ETF; sector mid-week bounce partially faded"
                       }
                   ]
 }
