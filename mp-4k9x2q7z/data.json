@@ -1,5 +1,5 @@
 ﻿{
-    "catalyst":  "JOLTS Job Openings 10 AM ET — hot print accelerates rate-hike fears and NQ pressure; miss could trigger relief bounce.",
+    "catalyst":  "CBRS (Cerebras) earnings at/after open; Sep 15-16 Fed meeting odds (70% hike) in focus; watch intraday JOLTS/ISM data for additional yield pressure.",
     "rangeWatch":  [
                        {
                            "symbol":  "CRDO",
@@ -34,17 +34,16 @@
                            "notes":  "Added manually."
                        }
                    ],
-    "standouts":  "Nuclear names lead: OKLO +8% to ~$43.05, SMR +5% to ~$9.46, UEC +6% to ~$13.21; semis (SMH -1%+) drag on INTC, MRVL, NVTS.",
-    "macro":  "ES futures -0.5%, NQ futures -1.0%; VIX ~15.93 (+6.8%); 10-yr Treasury yield 4.75%; Iran-US Strait of Hormuz flare-up lifting oil near $90/bbl (Brent), pressuring growth/semis while lifting nuclear/energy names; historically weak September start.",
-    "fullBrief":  "ES futures -0.5%, NQ futures -1.0%; VIX at ~15.93 (+6.8% bid); 10-yr Treasury yield rose to 4.75%; Iran-US Strait of Hormuz flare-up is lifting oil near $90/bbl (Brent), pressuring growth and semis while lifting energy names. September historically weakest month; JOLTS data due today at 10 AM ET.\nNuclear names are the standout premarket movers: OKLO +8% to ~$43.05, SMR +5% to ~$9.46, UEC +6% to ~$13.21; semis (SMH -1%+) drag on INTC, MRVL, NVTS.\nOKLO $43.05 +8.0% — HOLD; Groves reactor reached criticality Aug 6, thesis strongly intact, leading the book today.\nSMR $9.46 +5.0% — HOLD; nuclear sector bid, no thesis-breaking news, oil/energy tailwind persists.\nUEC $13.21 +6.0% — HOLD; uranium energy bid on Iran/oil geopolitical tension, sector positioning.\nINTC ~$88.00 -1.7% — HOLD; semis under pressure from rising yields and NQ weakness, no INTC-specific news.\nMRVL ~$208.50 -1.5% — HOLD; semis selloff (SMH -1%+), chipmaker pressure from 10-yr at 4.75%, no MRVL catalyst.\nJOBY ~$6.77 -1.0% — HOLD; tracking NQ lower, no JOBY-specific news, thesis intact.\nLUNR ~$15.21 -1.0% — HOLD; growth/speculative space soft with NQ -1%, no Intuitive Machines news.\nHIMS ~$29.30 -1.0% — HOLD; consumer discretionary/health softness with broader risk-off, no specific catalyst.\nIBM ~$231.50 -1.0% — HOLD; defensive tech, mild dip with market, no IBM news today.\nBE ~$204.00 -1.1% — HOLD; energy adjacent but hydrogen/fuel cell not getting same bid as nuclear today.\nNVTS ~$11.47 -1.0% — HOLD; small-cap semis softer with sector; no Navitas news.\nNUKZ ~$64.05 -0.7% — HOLD; nuclear ETF partially offset by nuclear stock rally vs. broad market weakness.\nCBRS ~$182.50 -1.0% — HOLD; no specific news, tracking broader tape lower.\nCatalyst to watch at open: JOLTS Job Openings (10 AM ET) — a hot print would accelerate rate-hike fears and extend NQ pressure; a miss could offer relief bounce.\n\n---",
+    "standouts":  "Nuclear sector bid continues (OKLO +1%, SMR flat); chip names soft (NQ -0.3%); INTC flagged on $20B equity offering; HIMS on guidance; CBRS on earnings; JOBY on $500M deal.",
+    "macro":  "ES futures marginally lower (-0.1%), NQ -0.3%; VIX 16.34 (+9.5%), 10yr yield 4.81% (highest since Nov 2023); US-Iran Strait of Hormuz hostilities push WTI above $90, Sep Fed hike odds ~70%.",
+    "fullBrief":  "ES futures marginally lower (-0.1%), NQ -0.3%; VIX closed at 16.34 (+9.5%), 10yr yield at 4.81% — highest since Nov 2023 — as US-Iran Strait of Hormuz hostilities lift oil above $90 WTI and stoke rate-hike fears with Sep Fed odds at 70%.\nPre-market standouts: Nuclear sector bid continuing (OKLO +1%, SMR flat); chip names soft broad (NQ -0.3%); INTC flagged on $20B equity offering; HIMS on guidance; CBRS on earnings; JOBY on $500M deal news.\nSMR ~$9.10 (-1.0%) — HOLD; nuclear thesis intact, sector bounced 5%+ Tuesday, slight AM give-back; Barclays cut PT to $11 but holds Equal Weight.\nUEC ~$13.05 (-1.2%) — HOLD; led Tuesday\u0027s nuclear rebound +6%; thesis intact, US-Iran tension supports uranium supply narrative.\nINTC ~$86.75 (-0.9%) — HOLD; $20B stock offering reported as Tuesday headline — dilutive but does not break the turnaround thesis; chip ETF under pressure this week.\nIBM ~$231.00 (-0.4%) — HOLD; securities law firm investigation (Bleichmar Fonti) announced late Aug; Q2 showed Software +5%, operating EPS +5%; no thesis break.\nHIMS ~$28.10 (-1.4%) — HOLD; guidance watch flagged; no new thesis-breaking news; broad market softness weighing on growth names.\nOKLO ~$43.50 (+1.1%) — HOLD; nuclear sector bid extends; Q2 2026 results showed first revenue; $3B liquidity; thesis strongly intact.\nMRVL ~$207.00 (-0.5%) — HOLD; no specific news; broad chip/NQ softness; thesis intact.\nLUNR ~$14.95 (-1.0%) — HOLD; space names soft in risk-off tone; no specific news; thesis intact.\nJOBY ~$6.65 (-0.7%) — HOLD; $500M deal noted as a positive catalyst; thesis intact, eVTOL long-term play.\nCBRS ~$181.00 (-0.6%) — HOLD; earnings in focus today per Seeking Alpha; watch for results at/after open.\nBE ~$202.50 (-0.7%) — HOLD; no specific news; Bloom Energy tracks energy demand theme; thesis intact.\nNVTS ~$11.30 (-0.9%) — HOLD; thin float, follows broad semi softness; no news.\nNUKZ ~$63.75 (+0.4%) — HOLD; nuclear ETF catching mild bid with sector; no specific news.\nCatalyst to watch at open: CBRS (Cerebras) earnings report; Fed rate hike probability data (Sep 15-16 meeting at 70%); ISM or JOLTS data release could add yield pressure intraday.",
     "marketDirection":  {
-                            "vix":  "16",
-                            "nq":  "-1.0%",
-                            "es":  "-0.5%"
+                            "es":  "-0.1%",
+                            "vix":  "16.3"
                         },
-    "generatedAt":  "2026-09-01T13:01:41Z",
-    "asOfLabel":  "2026-09-01, 9:15 AM ET",
-    "watchAlert":  "ES -0.5% NQ -1.0% VIX 16 | OKLO +8% HOLD thesis intact | SMR +5% HOLD nuclear rally | UEC +6% HOLD | MRVL GAP WATCH semis -1%+",
+    "generatedAt":  "2026-09-02T13:01:30Z",
+    "asOfLabel":  "2026-09-02, 9:15 AM ET",
+    "watchAlert":  "ES -0.1% VIX 16.3 10yr 4.81% | INTC HOLD (dilution offer) | OKLO HOLD (nuclear bid) | HIMS HOLD (guidance watch) | IBM HOLD (law firm probe)",
     "longWatch":  [
                       {
                           "symbol":  "OKLO",
@@ -81,108 +80,108 @@
                   ],
     "positions":  [
                       {
-                          "symbol":  "OKLO",
-                          "price":  43.05,
-                          "changePct":  8.0,
-                          "status":  "HOLD",
-                          "stopPrice":  null,
-                          "note":  "Groves reactor reached criticality Aug 6; nuclear sector bid on oil/Iran geopolitics; thesis strongly intact"
-                      },
-                      {
                           "symbol":  "SMR",
-                          "price":  9.46,
-                          "changePct":  5.0,
+                          "price":  9.10,
+                          "changePct":  -1.0,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "Nuclear sector bid; no thesis-breaking news; oil/energy tailwind"
+                          "note":  "Nuclear thesis intact; sector bounced 5%+ Tuesday; Barclays PT cut to $11 but Equal Weight maintained."
                       },
                       {
                           "symbol":  "UEC",
-                          "price":  13.21,
-                          "changePct":  6.0,
+                          "price":  13.05,
+                          "changePct":  -1.2,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "Uranium bid on Iran/oil geopolitical tension; sector positioning trade"
+                          "note":  "Led Tuesday nuclear rebound +6%; US-Iran tension supports uranium supply narrative."
                       },
                       {
                           "symbol":  "INTC",
-                          "price":  88.00,
-                          "changePct":  -1.7,
+                          "price":  86.75,
+                          "changePct":  -0.9,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "Semis under pressure from rising yields and NQ weakness; no INTC-specific news"
+                          "note":  "$20B stock offering reported Tuesday; dilutive but does not break turnaround thesis."
                       },
                       {
                           "symbol":  "IBM",
-                          "price":  231.50,
-                          "changePct":  -1.0,
+                          "price":  231.00,
+                          "changePct":  -0.4,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "Defensive tech mild dip with broad market; no IBM news today"
+                          "note":  "Securities law firm investigation announced late Aug; Q2 Software +5%, op EPS +5%; no thesis break."
                       },
                       {
                           "symbol":  "HIMS",
-                          "price":  29.30,
-                          "changePct":  -1.0,
+                          "price":  28.10,
+                          "changePct":  -1.4,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "Consumer health soft in risk-off tape; no specific catalyst"
+                          "note":  "Guidance watch flagged; no thesis-breaking news; growth names soft in rate-hike environment."
+                      },
+                      {
+                          "symbol":  "OKLO",
+                          "price":  43.50,
+                          "changePct":  1.1,
+                          "status":  "HOLD",
+                          "stopPrice":  null,
+                          "note":  "Nuclear sector bid extends; Q2 first revenue reported; $3B liquidity; thesis strongly intact."
                       },
                       {
                           "symbol":  "MRVL",
-                          "price":  208.50,
-                          "changePct":  -1.5,
+                          "price":  207.00,
+                          "changePct":  -0.5,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "Semis selloff with SMH -1%+; chipmaker pressure from 10-yr at 4.75%"
+                          "note":  "No specific news; broad chip/NQ softness; thesis intact."
                       },
                       {
                           "symbol":  "LUNR",
-                          "price":  15.21,
+                          "price":  14.95,
                           "changePct":  -1.0,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "Growth/speculative space soft with NQ -1%; no Intuitive Machines news"
+                          "note":  "Space names soft in risk-off tone; no specific news; thesis intact."
                       },
                       {
                           "symbol":  "JOBY",
-                          "price":  6.77,
-                          "changePct":  -1.0,
-                          "status":  "HOLD",
-                          "stopPrice":  null,
-                          "note":  "Tracking NQ lower; no Joby-specific news; thesis intact"
-                      },
-                      {
-                          "symbol":  "CBRS",
-                          "price":  182.50,
-                          "changePct":  -1.0,
-                          "status":  "HOLD",
-                          "stopPrice":  null,
-                          "note":  "No specific news; tracking broader tape lower"
-                      },
-                      {
-                          "symbol":  "BE",
-                          "price":  204.00,
-                          "changePct":  -1.1,
-                          "status":  "HOLD",
-                          "stopPrice":  null,
-                          "note":  "Energy adjacent but hydrogen not getting nuclear sector bid today"
-                      },
-                      {
-                          "symbol":  "NVTS",
-                          "price":  11.47,
-                          "changePct":  -1.0,
-                          "status":  "HOLD",
-                          "stopPrice":  null,
-                          "note":  "Small-cap semis softer with sector; no Navitas news"
-                      },
-                      {
-                          "symbol":  "NUKZ",
-                          "price":  64.05,
+                          "price":  6.65,
                           "changePct":  -0.7,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "Nuclear ETF partially offset by nuclear stock rally vs. broad market weakness"
+                          "note":  "$500M deal noted as positive catalyst; eVTOL long-term thesis intact."
+                      },
+                      {
+                          "symbol":  "CBRS",
+                          "price":  181.00,
+                          "changePct":  -0.6,
+                          "status":  "HOLD",
+                          "stopPrice":  null,
+                          "note":  "Earnings in focus today; watch for results at or after the open."
+                      },
+                      {
+                          "symbol":  "BE",
+                          "price":  202.50,
+                          "changePct":  -0.7,
+                          "status":  "HOLD",
+                          "stopPrice":  null,
+                          "note":  "No specific news; energy demand theme intact; mild macro pressure."
+                      },
+                      {
+                          "symbol":  "NVTS",
+                          "price":  11.30,
+                          "changePct":  -0.9,
+                          "status":  "HOLD",
+                          "stopPrice":  null,
+                          "note":  "Thin float; follows broad semi softness; no news."
+                      },
+                      {
+                          "symbol":  "NUKZ",
+                          "price":  63.75,
+                          "changePct":  0.4,
+                          "status":  "HOLD",
+                          "stopPrice":  null,
+                          "note":  "Nuclear ETF catching mild sector bid; no specific news."
                       }
                   ]
 }
