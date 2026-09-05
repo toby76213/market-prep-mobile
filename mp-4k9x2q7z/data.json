@@ -1,5 +1,5 @@
 ﻿{
-    "catalyst":  "August nonfarm payrolls already released pre-open (162K vs 55K est); market to digest Fed rate-path repricing; US markets closed Monday Labor Day",
+    "catalyst":  "OPEC meeting outcome (Sat Sep 5) could move energy/uranium Monday open; CPI due next week is next Fed hike decision test",
     "rangeWatch":  [
                        {
                            "symbol":  "CRDO",
@@ -34,17 +34,16 @@
                            "notes":  "Added manually."
                        }
                    ],
-    "standouts":  "LULU -18.9% on revenue forecast slash; IOT +14.3% on raised guidance; nuclear sector consolidating after midweek volatility",
-    "macro":  "ES futures +0.06% NQ +0.46%; August payrolls 162K crushed 55K estimate; 10-yr yield 4.766; VIX 14.3 falling; Fed Sep hike odds 54%",
-    "fullBrief":  "ES futures +0.06% and NQ futures +0.46% pre-open, market cautiously higher after August payrolls crushed estimates at 162K vs 55K expected; 10-yr yield 4.766, VIX 14.3 and falling, rate-hike odds at 54% for September.\nPre-market standouts outside the book: LULU -18.9% on revenue forecast slash, IOT +14.3% on raised guidance; broader tape mixed with Nasdaq leading.\nSMR $9.79 +0.4% -- HOLD; nuclear sector saw Tuesday group rally but Thursday pullback; no fresh thesis-breaking news today.\nUEC ~$11.51 flat -- HOLD; uranium thesis intact, sector volatility elevated but no specific news today.\nINTC $89.50 -2.4% vs cost basis -- HOLD; 14A process progress noted, semiconductor tariff chatter remains an overhang, thesis intact.\nIBM ~$234.71 flat -- HOLD; Susquehanna raised PT to $235 this week citing quantum catalysts; no earnings today.\nHIMS ~$27.82 flat -- HOLD; no specific news today, GLP-1/telehealth thesis intact.\nOKLO ~$43.05 +8% earlier in week, currently consolidating -- HOLD; nuclear AI power demand thesis intact, sector volatile.\nMRVL ~$208.83 flat -- HOLD; AI semiconductor demand thesis intact, no earnings today.\nLUNR ~$14.70 flat -- HOLD; no specific news today, NASA contract thesis intact.\nJOBY ~$6.87 flat -- HOLD; $500M deal noted recently, eVTOL thesis intact.\nCBRS ~$190.44 flat -- HOLD; Cerebras earnings were recent catalyst, monitoring post-earnings drift.\nNVTS ~$11.10 flat -- HOLD; Navitas power semiconductor thesis intact, no news today.\nNUKZ ~$64.92 flat -- HOLD; nuclear ETF, thesis-hold classification.\nCatalyst to watch at open: August nonfarm payrolls already released pre-open (162K beat); market will digest rate-hike repricing and Fed path implications throughout the session; US markets closed Monday for Labor Day.",
+    "standouts":  "INTC +4.5% and MRVL +7% Fri on OpenAI GPT optimism; LULU beat Q2 EPS by 16% ($2.92 vs $2.51); nuclear complex (SMR, OKLO, UEC) sold -3-5% Thu on yield spike; no live Sat premarket",
+    "macro":  "ES ~7719 (-0.3% Fri); NQ ~26507; VIX 14.53 (+1.47%); 10yr yield 4.789%; monster NFP lifted Sept Fed rate-hike odds to 58%; bond rout dominant risk",
+    "fullBrief":  "Macro: ES settled week near 7,719 (-0.3% Fri); NQ ~26,507; VIX closed 14.53 (+1.47%); 10yr yield spiked to 4.789% after monster August NFP lifted Sept Fed rate-hike odds to 58%; bond rout and hawkish Fed bias are the dominant macro risk this week.\nPre-market standouts: No live Saturday premarket session; Friday standouts were Intel +4.5% and Marvell +7% on OpenAI GPT optimism; Lululemon Q2 beat by 16% (EPS $2.92 vs $2.51 est) though revenue narrative was mixed; nuclear complex (SMR, OKLO, UEC) sold off ~3-5% Thursday on rate/yield pressure; OPEC meeting today could move energy/uranium sentiment Monday open.\nSMR: Last close ~$8.80 (-9.3% vs cost $9.70) -- GAP WATCH -- thesis HOLD; NuScale reported only $75K Q2 revenue and launched $750M share sale; yield spike is headwind but long-term thesis intact.\nUEC: Last close ~$11.20 est (-3% nuclear selloff); HOLD -- uranium miner thesis intact; UEC held up better than SMR peers per Yahoo Finance.\nINTC: Last close ~$100.30 est (+4.5% Fri); HOLD -- chipmaker tailwind from OpenAI GPT momentum; Intel gained 4.5% Friday.\nIBM: Last close ~$234.89 area; HOLD -- no material news; stable enterprise name.\nHIMS: Last close ~$27.71 area; HOLD -- no specific news; thesis holds.\nOKLO: Last close ~$41.27 area, nuclear names under pressure but Aug 25 saw +8% pop on contract news; HOLD -- thesis intact per classification.\nMRVL: Last close ~$240 est (+7% Fri); HOLD -- strong OpenAI/AI tailwind Friday; well above $223.55 cost.\nLUNR: Last close $14.81 (at cost); HOLD -- thesis intact, volume slightly below average; no specific news.\nLULU: Last close ~$119.78 est vs cost $100.61; HOLD -- Q2 EPS beat 16% on Sep 3 AMC; revenue/guidance mixed but stock well above cost.\nJOBY: Last close ~$6.74 area; HOLD -- eVTOL thesis intact; no breaking news.\nNVTS: Last close ~$11.80 area; HOLD -- Navitas thesis intact; semiconductor tailwind modest.\nNUKZ: Last close ~$65.70 area; HOLD -- nuclear ETF theme; rate headwind near-term.\nCatalyst to watch at Monday open: OPEC meeting outcome (Saturday Sep 5) could shift energy/uranium sentiment; CPI data due next week is the next major Fed policy test.",
     "marketDirection":  {
-                            "vix":  "14.3",
-                            "nq":  "+0.46%",
-                            "es":  "+0.06%"
+                            "es":  "-0.3%",
+                            "vix":  "14.53"
                         },
-    "generatedAt":  "2026-09-04T13:01:12Z",
-    "asOfLabel":  "2026-09-04, 9:15 AM ET",
-    "watchAlert":  "ES +0.06% NQ +0.46% VIX 14.3 | INTC HOLD thesis/below cost | OKLO HOLD nuclear sector volatile | JOBY HOLD $500M deal catalyst | LUNR HOLD | Jobs beat 162K",
+    "generatedAt":  "2026-09-05T13:01:14Z",
+    "asOfLabel":  "2026-09-05, 9:15 AM ET",
+    "watchAlert":  "ES -0.3% wk VIX 14.53 10yr 4.79% | LULU HOLD (earnings beat) | SMR GAP WATCH ($8.80 close) | INTC HOLD (+4.5% Fri) | OKLO HOLD thesis intact",
     "longWatch":  [
                       {
                           "symbol":  "OKLO",
@@ -82,99 +81,99 @@
     "positions":  [
                       {
                           "symbol":  "SMR",
-                          "price":  9.79,
-                          "changePct":  0.4,
-                          "status":  "HOLD",
+                          "price":  8.80,
+                          "changePct":  -9.3,
+                          "status":  "GAP WATCH",
                           "stopPrice":  null,
-                          "note":  "Nuclear thesis intact; sector volatile but no thesis-breaking news today"
+                          "note":  "Below $9.70 cost; $75K Q2 rev + $750M share sale; thesis hold, no exit"
                       },
                       {
                           "symbol":  "UEC",
-                          "price":  11.51,
-                          "changePct":  0.0,
+                          "price":  11.20,
+                          "changePct":  -3.0,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "Uranium thesis intact; no specific news today"
+                          "note":  "Nuclear selloff Thu; held up better than SMR peers; thesis intact"
                       },
                       {
                           "symbol":  "INTC",
-                          "price":  89.50,
-                          "changePct":  -0.4,
+                          "price":  100.30,
+                          "changePct":  4.5,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "Below cost basis; 14A process progress, tariff chatter overhang; thesis intact"
+                          "note":  "Intel +4.5% Fri on OpenAI GPT momentum; chipmaker tailwind"
                       },
                       {
                           "symbol":  "IBM",
-                          "price":  234.71,
+                          "price":  234.89,
                           "changePct":  0.0,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "Susquehanna raised PT to $235 this week on quantum catalysts"
+                          "note":  "No material news; stable enterprise name"
                       },
                       {
                           "symbol":  "HIMS",
-                          "price":  27.82,
+                          "price":  27.71,
                           "changePct":  0.0,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "GLP-1 telehealth thesis intact; no news today"
+                          "note":  "No specific news; thesis holds"
                       },
                       {
                           "symbol":  "OKLO",
-                          "price":  43.05,
-                          "changePct":  0.0,
+                          "price":  41.27,
+                          "changePct":  -2.5,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "Nuclear AI power demand thesis intact; consolidating after midweek 8% rally"
+                          "note":  "Nuclear pressure from yields; Aug 25 +8% pop on contract news; thesis intact"
                       },
                       {
                           "symbol":  "MRVL",
-                          "price":  208.83,
-                          "changePct":  0.0,
+                          "price":  240.00,
+                          "changePct":  7.0,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "AI semiconductor thesis intact; no earnings today"
+                          "note":  "Marvell +7% Fri on OpenAI GPT optimism; well above $223.55 cost"
                       },
                       {
                           "symbol":  "LUNR",
-                          "price":  14.70,
+                          "price":  14.81,
                           "changePct":  0.0,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "NASA contract thesis intact; no news today"
+                          "note":  "At cost; slightly below avg volume; no breaking news"
+                      },
+                      {
+                          "symbol":  "LULU",
+                          "price":  119.78,
+                          "changePct":  2.5,
+                          "status":  "HOLD",
+                          "stopPrice":  null,
+                          "note":  "Q2 EPS $2.92 beat $2.51 est by 16%; revenue/guidance mixed; well above $100.61 cost"
                       },
                       {
                           "symbol":  "JOBY",
-                          "price":  6.87,
+                          "price":  6.74,
                           "changePct":  0.0,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "$500M deal recently noted; eVTOL thesis intact"
-                      },
-                      {
-                          "symbol":  "CBRS",
-                          "price":  190.44,
-                          "changePct":  0.0,
-                          "status":  "HOLD",
-                          "stopPrice":  null,
-                          "note":  "Post-earnings drift monitoring; no fresh catalysts today"
+                          "note":  "eVTOL thesis intact; no breaking news"
                       },
                       {
                           "symbol":  "NVTS",
-                          "price":  11.10,
+                          "price":  11.80,
                           "changePct":  0.0,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "Power semiconductor thesis intact; no news today"
+                          "note":  "Navitas thesis intact; modest semiconductor tailwind"
                       },
                       {
                           "symbol":  "NUKZ",
-                          "price":  64.92,
-                          "changePct":  0.0,
+                          "price":  65.70,
+                          "changePct":  -1.5,
                           "status":  "HOLD",
                           "stopPrice":  null,
-                          "note":  "Nuclear ETF thesis hold; tracks sector volatility"
+                          "note":  "Nuclear ETF; rate/yield headwind near-term; thesis intact"
                       }
                   ]
 }
